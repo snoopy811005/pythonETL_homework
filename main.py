@@ -2,6 +2,7 @@ import requests
 from bs4 import BeautifulSoup
 import time
 import json
+import pandas as pd
 
 def main():
     User_Agent = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36 Edg/95.0.1020.40"
@@ -44,6 +45,7 @@ def main():
         # print('=============')
 
     # company, job_title, job_content, job_category
+    jobInfo = []
     for articleTitle, articleUrl in articleTitleUrlList:
         print(articleTitle)
         print(articleUrl)
@@ -64,12 +66,25 @@ def main():
         jobTitle = jsonArticleRes['data']['header']['jobName']
         jobContent = jsonArticleRes['data']['jobDetail']['jobDescription']
         jobCategoryList = [i['description'] for i in jsonArticleRes['data']['jobDetail']['jobCategory']]
+        jobInfo.append([jobTitle, company, ','.join(jobCategoryList), jobContent])
         print('\t\t' + company)
         print('\t\t' + jobTitle)
         print('\t\t' + jobContent)
         print('\t\t' + ','.join(jobCategoryList))
         print('=============')
         # time.sleep(3)
+
+    # integrate job information
+    columns = ['Job Opening', 'Job Company', 'Job Category', 'Job Content']
+    df = pd.DataFrame(data=jobInfo, columns=columns)
+
+    # write to csv
+    df.to_csv('./104_Job.csv', index=False)
+
+    # write to excel
+    df.to_excel('104_Job.xlsx', index=False, engine='xlsxwriter')
+
+
 
 if __name__ == '__main__':
     main()

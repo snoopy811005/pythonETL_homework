@@ -6,6 +6,8 @@
    2. bs4
    3. time
    4. json
+   5. pandas
+   6. xlsxwriter(for excel)
 2. HTTP Method: GET
 3. URL: https://www.104.com.tw/jobs/search/
 4. Parameter:
