@@ -1,169 +1,67 @@
 Job Opening,Job Company,Job Category,Job Content
-Sr. SSD Firmware Engineer,Marvell_邁威爾科技有限公司,韌體設計工程師,"(1) Design and develop SSD firmware and assist in device bring-up.
-(2) Responsible for feature implementation, design review, SoC validation, and publish weekly reports in accordance with Agile development process.
-(3) Verify platform and ensure correctness between SSD controller and SoC modules.
-(4) Program and debug on SSD controller and provide unified API for upper firmware layer usage.
-(5) Anticipate and identify bottlenecks, escalate major problems, and discuss issues with the manager and team members.
-(6) Create high-level design documentation and coordinate with other departments such as Hardware, Software, FW Test, and STE.
+#210202981 CIB Cash Equities Operations Specialist (502),摩根大通證券股份有限公司,"券商後線人員,銀行辦事員","Job Functions/ Responsibilities:
+•	Delivery of overall service model to the business to high level of client and business satisfaction for Taiwan market trading.
+•	Delivery of overall service model in compliance with
+•	JPMorgan policy and market rules
+•	Escalate unusual problems to managers.
+Operations Support Specific :
+A/C Opening :
+•	Liaise with local custodians, clients, legal, compliance and regional teams for:
+•	Clients’ enquiry on the terms and conditions of the a/c opening agreement.
+•	Collecting doc required
+•	Updating client ref. data in local and regional systems.
+Core Processing ( Middle office + Settlement) :
+Act as client services and the key contact to sales, sales traders, dealers, auditors, compliances, legal, tech, regulators and etc. for : 
+•	Trade confirmation
+•	Trade pre-matching
+•	Settlement & clearance
+•	System enhancement if needed
+Securities Borrowing and Lending transaction
+Act as client services and the key contact to sales, sales traders, dealers, auditors, compliances, legal, tech, regulators and etc. for : 
+•	Trade Reporting 
+•	SBL related events. "
+Developer,香港商柏駿資本管理(香港)有限公司 Polymer Capital Management (HK) Limited,"軟體設計工程師,Internet程式設計師","Introduction:
+Our team deals with data analytics and visualization, multiple projects running involving risk analytics, risk monitoring and quantitative research.
+Major languages in use are C#, JavaScript/TypeScript and Python.
+The development work covers end-to-end process, database schema design, API design and front-end UI/UX design.
+We also follow DevOps practices, build, test and deploy by ourselves. By using the Git branching model, pull requests and CI/CD tools, we enforce peer reviews and automated tests to ensure code quality
 
-
+Good to Have
+• Already familiar with our major languages C#, JavaScript and Python, able to code solutions end-to-end
+• Already Familiar with SQL/NoSQL databases, .NET Core, React, Redux, FastAPI and Anaconda, RESTful API and gRPC
+• Already familiar with CI/CD setup, AWS/GCP, CDK/Terraform, Kubernetes, Docker, Linux Bash and Windows Cmd
+• Good mathematics and statistic knowledge (understand concepts like matrix and related operations, correlation, standard deviation, etc.)
+Not Required:
+• Financial background is not mandatory, every fund works different, financial concepts here should be easy to understand, we don't expect you to come from other hedge funds or investment banks
 "
-高階主管秘書,偉太健康科技有限公司,"秘書,主管特別助理,營運管理師／系統整合／ERP專案師","此職務需要有高度敏銳、解決問題之能力，橫向溝通佳且善於表達。
-1.處理與主管相關的行政事務。
-2.擔任部門之間或主管間的橋樑。
-3.執行與協調辦公室行政活動、行政事務流程之規劃、整合及溝通。
-4.協調公司各部門會議的排程，並於會後製作會議記錄及追蹤處理決議事項。
-5.安排主管行程。
-6.一般文書資料處理工作、簽核文件整理及發送。
-7.協助主管維繫客戶關係(書信往來、電話聯絡...)。 
-8. 英文商業書信/郵件翻譯/基本文書軟體/主管交辦事項/效率佳/思路清晰。
-9. 具備流利英語聽說寫能力。
-10.熟悉國際貿易進出口業務者擇優。
-11.協助營運管理和整合各部門系統資訊。
+(年度擴編)Backend Development / 後端工程師,瑞嘉軟體科技股份有限公司,"軟體設計工程師,Internet程式設計師","•  Develop and operate backend systems related to data collection and data processing.
+•  Responsible for workflow automation , process optimization and performance tuning.
+•  Coordinate with technical lead on current programming tasks.
+•  Continuously learn and improve skills.
+•  Perform other duties as necessary."
+[社會新鮮人] Kaohsiung-Equipment Engineer 設備工程師,NXP Semiconductors Taiwan Ltd._台灣恩智浦半導體股份有限公司,"生產設備工程師,半導體工程師,半導體設備工程師","- Data analysis to ensure handler work on baseline. Ex. MCBA, index time, temperature control and HW interface maintenance 
+資料分析確保機台運作在基準條件, 包含作動不順, 作動時間, 溫度控制, 及機台介面維護 
+- SOP, OCAP, PM document creation. 
+建立標準化流程,異常處理文件,及保養維護文件
+- Responsible for the performance of handler.
+負責機台性能及相關報告
+- Handle the improvement project on handler.
+持續進行機台的改善計畫
+- Management recipes of handler and spare parts
+機台參數管理及備品管理
+- Provide technology and operation training to shift assistant engineer and operators in manufacture lines to support production smoothly. 訓練助理工程師與作業員以利生產線順利運作
+- Co-work with worldwide handler team for evaluation/improvement
+與其他機台團隊跨國合作, 導入評估, 問題改善"
+"ENGINEER, PACKAGE ASSEMBLY PROCESS INTEGRATION",台灣美光(台灣美光晶圓科技股份有限公司/台灣美光記憶體股份有限公司/美商美光亞太科技股份有限公司台灣分公司),"IC封裝／測試工程師,半導體工程師","Specific Responsibilities: 
 
-國內外知名大學商學系畢優先錄取。
-此職務為高階主管職，保障年薪14個月（包括年中和年終獎金）"
-系統軟體開發工程師,捷螺系統股份有限公司,"軟體設計工程師,演算法開發工程師","1. 具程式設計開發經驗. 
-2. 熟 C、C++、Java、Python、MySQL、 linux 佳
-3.開發派車軟體，車輛繞路演算法，交通管理演算法，開發Material handling system
-薪資佳. "
-桃園區門市銷售顧問Water Filters Sales Representative,偉太健康科技有限公司,"店長／賣場管理人員,門市／店員／專櫃人員,國內業務人員","【職位要求】
-如果你：
-【服務熱忱】 【精品經驗】
-個性開朗活潑，熱愛服務，期望從銷售中提升自我，善於經營及鞏固與客戶的關係。擁有精品銷售經驗，儀態端莊，談吐大方。
+Advanced package technology (chip stacking, 2.5D or 3D) research and development
+PWF(MEOL) and Assembly Process Integration for 3DI/TSV HBM(High Bandwidth Memory) 
+Familiar with JMP data analysis and DOE matrix design and analysis
+Material characterization experience
+Process problem identification and solving
+Work effectively to produce cross sections cooperation 
 
-【Job Requirements】
-If you…
-【Passion in service】【Sales experience in luxury industry】
-	Good team player, optimistic, pleasant, energetic, and service-oriented;
-	Excellent in building and keeping relationship with customers;
-	Have sales experience in luxury industry;
-	Have a dignified deportment
-
-【渴望成功】 【自信盡責】
-曾有過挑戰和克服困難的經歷，對自己有極高期許，勇於突破自我。具有強烈企圖心，堅持不懈的精神。。
-【Desire to success】【Confident and responsible】
-	Look for self-breakthrough with high self-expectations;
-	Have a big ambition to insist on getting better / overcoming difficulties
-
-擁有以上特質的優秀人材優先錄取，歡迎您的加入！
-If you meet the above conditions, you will be prioritized to be enrolled. 
-Welcome to join us!
-
-【薪資制度】
-雄心壯志，不輕易滿足於現狀，我們在尋找勇於挑戰的你！
-公司勇於保障優秀人材，高底薪保障及完整的績效獎金制度，條件越高，保障薪資越高；績效獎金，每季結算，還有團獎、個獎和不定期活動競賽獎。
-【福利條件】
--	月休10日
--	外加國定假日及特休
--	平均每年至少138天休假
--	每週工時41小時
--	國定假日可調休
--	定期國外旅遊
-"
-水晶軒專櫃人員(台中)底薪固定13個月+獎金,香港商施華洛世奇有限公司台灣分公司,門市／店員／專櫃人員,"百貨公司專櫃人員(試用期保障薪資)
-1.負責介紹及銷售商品。 
-2.提供顧客之接待與需求服務。 
-3.負責商品進貨入庫、銷售管理及庫存管理。 
-4.負責商品包裝、陳列及促銷品換檔工作。 
-5.維持店櫃週遭之整潔。"
-Customer Service Representative,歐商_喜利得股份有限公司,"電話客服類人員,國內業務人員,電話行銷人員","1.	Be proactive for outbound upselling, propose additional sales lines, trade ins, LVR warranty exchanges and offer alternatives.
-
-2.	Effectively plan outbound calls, organize your day/week, plan and prepare each call to achieve your quantitative call targets.
-
-3.	Identify needs and opportunities during outbound calling, use telephone sales skills, close deals and create purchase orders.
-
-4.	Problem solve during outbound activities, clarify and confirm the problem, solve or connect to the person/department that can solve the issue and give customer a timely answer.
-
-5.	Demonstrate knowledge of information system, catalogue, HOL, telephone system, pricing structure and the SAP/ CRM system to secure fast and professional operations. Serve customers efficiently and be an active part of the MCS system.
-
-6.	Understand customer needs and your trade and key applications. Be aware of different contact person needs. Apply decision making as per line and playbooks.
-
-7.	Thrive for customer satisfaction; efficiently handle orders and inquiries, ensure professional complaint handling and coordinate with teammates to solve customer problems when needed
-
-8.	Place strategic products/services to develop loyal customers, know features and benefits and the competitive advantage, argue the value proposition over the phone and offer several lines to give customer the choice.
-
-9.	Use SSS to identify needs, opportunities by closing deals and turn them into purchase orders.
-
-10.	Be a team player within the MCS model, ensure data quality, enable digital marketing and share opportunities with other MCS teammates.
-
-"
-新竹區專櫃銷售顧問（竹北遠百新開幕）Water Filters Sales Representative,偉太健康科技有限公司,"店長／賣場管理人員,門市／店員／專櫃人員,國內業務人員","【工作內容】
-1.	對產品有深入的認識，與客戶的互動，展出專業的產品知識，給予客戶與眾不同的服務體驗。
-2.	負責門市與客戶建立與維繫。
-3.	追蹤客戶後續動作。
-4.	達成個人及門市的目標，提升及發展門市營運。
-5.	配合總公司的活動執行。
-6.	根據總公司的指導方針進行門市內部的陳列。
-7.	維持門市店面整潔及商品的管理。
-8.	此職位需排班輪休。
-
-【Job Responsibilities】
-1.	Have comprehensive understanding of products; interact with customers to ensure high level of customer satisfaction through excellent sales service;
-2.	Build productive trust relationship with customers;
-3.	Follow up customers a need;
-4.	Achieve sales goal and maintain the operation of retail branch store;
-5.	Cooperate with the need of head office to carry out promotional activities;
-6.	Maintain branch store display and appearance based on the guideline of head office;
-7.	Assist in store operations and daily housekeeping of merchandise;
-8.	Weekend and public holidays shift work is required for this position
-
-【職位要求】
-如果你：
-【服務熱忱】 【精品經驗】
-個性開朗活潑，熱愛服務，期望從銷售中提升自我，善於經營及鞏固與客戶的關係。擁有精品銷售經驗，儀態端莊，談吐大方。
-
-【Job Requirements】
-If you…
-【Passion in service】【Sales experience in luxury industry】
-	Good team player, optimistic, pleasant, energetic, and service-oriented;
-	Excellent in building and keeping relationship with customers;
-	Have sales experience in luxury industry;
-	Have a dignified deportment
-
-【渴望成功】 【自信盡責】
-曾有過挑戰和克服困難的經歷，對自己有極高期許，勇於突破自我。具有強烈企圖心，堅持不懈的精神。。
-【Desire to success】【Confident and responsible】
-	Look for self-breakthrough with high self-expectations;
-	Have a big ambition to insist on getting better / overcoming difficulties
-
-擁有以上特質的優秀人材優先錄取，歡迎您的加入！
-If you meet the above conditions, you will be prioritized to be enrolled. 
-Welcome to join us!
-
-【薪資制度】
-雄心壯志，不輕易滿足於現狀，我們在尋找勇於挑戰的你！
-公司勇於保障優秀人材，高底薪保障及完整的績效獎金制度，34000以上保障底薪，條件越高，保障薪資越高；績效獎金，每季結算，還有團獎、個獎和不定期活動競賽獎。
-【福利條件】
--	月休10日
--	外加國定假日及特休
--	平均每年至少138天休假
--	每週工時41小時
--	國定假日可調休
--	定期國外旅遊
--	詳細福利請參考下方條件"
-Software Developer(Internal Systems) / 軟體研發工程師(內部系統開發),美商勞倫斯科技股份有限公司台灣分公司,軟體設計工程師,"We are looking for a software engineer who is passionate about solving problems. If you are a brilliant innovator this is your dream job. The ideal candidate for this position is someone who thinks outside-of-the-box. Creativity, ingenuity, and technical-passionate are critical success factors. 
-
-You must be able to take a user requirement and come up with a good design and program the solution.  The user requirement will be a general requirement given and not a technical document - the person must be able to understand this, come up with the design, and deliver a good solution."
-運維工程師(網路加速器) 工作地點 : 杜拜,寶誠有限公司,"系統維護／操作人員,MIS／網管主管,網路管理工程師","運維工程師(網路加速器) 工作地點 : 杜拜
-
-工作內容：
-1、負責公司專案系統運維和技術支援(網路加速器)
-2、系統硬體環境和軟體環境的日常維護
-3、進行辦公設備的日常管理，完善和更新各類IT文件
-4、負責伺服器配置、維護、監控、優化、障礙排除
-5、保障伺服器與資料庫安全，檢查並消除安全漏洞
-6、iis建站維護，更新data files、website、設備異常處理
-7、維持伺服器安全高效運轉，處理客戶端訪問數據
-
-任職要求：
-1、大專或以上學歷，1年或以上相關工作經驗
-2、熟悉Windows和Linux簡單維護
-3、具備電腦軟/硬體及網路系統設備故障診斷及處理能力
-4、具備良好的判斷能力、溝通能力，具有較強的責任心
-
-
-"
+According to the ""Employment Service Act"", positions with salary lower than NTD$40,000, please refer to the salary information in the job description. Positions with salary over than NTD$40,000 will be subject to be discussed during interview."
 DRAM Product Engineer [DRAM產品工程師][R&D研發],台灣美光(台灣美光晶圓科技股份有限公司/台灣美光記憶體股份有限公司/美商美光亞太科技股份有限公司台灣分公司),"數位IC設計工程師,硬體測試工程師,半導體工程師","As a DRAM Engineering Group (DEG) Product Engineer at Micron Technology, Inc., you will be responsible to prepare for new DRAM products and coordinate resources, testing, and analysis over the lifecycle of the product. You will run simulations, create and maintain design documentation, analyze parametric data and respond to failures. In this role, you will work with various Engineering and Manufacturing groups to troubleshoot, develop and validate device testing programs, as well as identify and validate lab equipment needs, and identify or modify tests for customer returns and programs to meet specific product requirements. You will also act as a product-specific point of contact and work with Application Engineers evaluating and providing feedback on data sheets, and with Quality Assurance to ensure product reliability.
 
 Responsibilities and Tasks:
@@ -208,51 +106,55 @@ Desired: Bachelors Degree: VLSI / Semiconductors
 
 Environment: Office
 Shift: regular office hours, 5 days a week, Days"
-資料科學家Data Scientist,希卡科技有限公司(籌備處),"演算法開發工程師,統計學研究員,軟體設計工程師","一、工作內容:
-1、 從不同維度對市場數據以及客戶交易資料，研究並提出創新的量化解決方案。
-2、根據既有的交易產品的報價或統計模型進行研究，提供開發者資料模型並據以在系統上實施及改善。
-3、對網頁高頻報價數據進行資料探勘及分析。
+系統軟體開發工程師,捷螺系統股份有限公司,"軟體設計工程師,演算法開發工程師","1. 具程式設計開發經驗. 
+2. 熟 C、C++、Java、Python、MySQL、 linux 佳
+3.開發派車軟體，車輛繞路演算法，交通管理演算法，開發Material handling system
+薪資佳. "
+水晶軒專櫃人員(高雄區)底薪固定13個月+獎金,香港商施華洛世奇有限公司台灣分公司,門市／店員／專櫃人員,"百貨公司專櫃小姐/先生(試用期保障薪資)
+1.負責介紹及銷售商品。 
+2.提供顧客之接待與需求服務。 
+3.負責商品進貨入庫、銷售管理及庫存管理。 
+4.負責商品包裝、陳列及促銷品換檔工作。 
+5.維持店櫃週遭之整潔。
+6.店櫃人員訓練與管理。"
+★年後再報到★AI工程師(MLOps Engineer),奇美實業股份有限公司,"軟體設計工程師,其他資訊專業人員,演算法開發工程師","※【本職缺僅接受奇美實業官方網站投遞履歷】
+請至奇美人才網投遞個人履歷表，奇美人才網網址：http://www.chimeicorp.com/recruit/
 
-二、背景期望:
-1、碩士學歷或實務上工作經歷。
-2、數理、統計、金融相關學經歷 (尤佳)。
-3、熟悉Python及統計、爬蟲相關工具。
-4、熟悉交易所撮合流程(尤佳)。"
-Data Scientist / 資料科學家,集邦科技股份有限公司_TRENDFORCE,"軟體設計工程師,演算法開發工程師","Responsibilities
-●Define ML-solvable problems from financial/industrial domains.
+★此為2022年度人力計劃性招募，採批次面試，預計於2021.12月進行面試通知與安排，請靜候佳音!
+須具備：
+1.資訊相關科系，MLOps 2年以上經驗
+2.具備 ML/CV 的設計開發概念及維運經驗
+3.建置過或有使用過現成的 MLOps Platform 去解決資料分享、模型開發、與模型版控的問題
+4.Docker 或其他容器化技術，具K8S維運概念
+5.有 AIoT 或 Cloud 經驗佳
+6.跨團隊合作，樂於學習新技術，樂於分享技術和經驗，幫助他人共同進步。
 
-●Implement and apply ML models/tools to solve the problems and generate high quality predictions.
+工作內容：
+1.AI落地所需的服務整合，模型部署之架構規劃與實作。建置基礎設施以協助 ML/CV 產品的開發。
+2.與前後端、AI 開發人員等不同部門、不同團隊成員或各廠商協作，規劃、建構、部署、維運、與最佳化ML/CV相關的各種服務。
+3.業務包括但不限於：了解各團隊需求、資料建模、資料分析、資料串接、ML/CV模型訓練、流程自動化、模型部署、及服務監控。
 
-Skills and Qualifications
-1. Master degree in finance/data science related domain or Bachelor's degree in related fields.
-2. Good at Python Programming. Code Test is required during interview.
-3. Strong Intrest in stock market/futures market. Investment experience is a plus.
-4. Basic machine learning knowkedge. Machine learning related working experience is a plus. 
-5. Good communication skills and team working ability.
-6. Responsible for your projects.
-7. Experience of gitlab using and code-review is a plus.
-8. Work experience in data cleaning/ data analysis is a plus
-9. Programming-related working experience is a plus (NOT school projects)"
-數據科學家 Data Scientist (Data Science & AI Team),鴻海精密工業股份有限公司,"演算法開發工程師,軟體設計工程師,統計學研究員","<About the job>： 
-As the data scientist, you'll join the AI/Big Data Analytics program/projects related to management topics, including Commercial/Industrial Engineering/Supply Chain/Financial Performance/Operation...etc., to build the model or algorithm to empower data-driven & analytics-driven for driving business value from data insights in this world-class company (Fortune Global 500, 22nd).
+工作地點：台南市仁德區中正路398號
 
-<Job Description>： 
-．Design, implement and refine advanced Statistical/Machine Learning/Deep Learning/Numerical Simulation/Optimization Algorithm Models(at least one of the fields)
-．Ensure alignment of modeling initiatives with the requirement goal defined by key stakeholders and company objectives and identify new hypotheses for model improvements.
-．Executing big data analysis and predictive analytics projects include feature engineering, model building, algorithm development, etc.
-．Works closely with a team of data system analysts, business data analysts, data engineers, data platform architects, etc.
-．Collaborate effectively with team members, whether leading tasks or supporting initiatives led by others.
-<Skills>
-．Experience with any one of Machine Learning, Statistical Modeling, Deep Learning(Nature Language/Image), Econometric Modeling, Optimization Algorithm(OR), Numerical Simulation..., etc., model/algorithm building of the practical application in the industry.
-．Familiarity with programming languages like Python or R, or Java. (Good programming skills in Python is a plus). 
-．Advanced ability to perform Exploratory Data Analysis and working knowledge of statistics. 
-．Ability to visualize data in the most effective way possible for a given task, especially visualize models and results and debug and troubleshoot code and models."
-Data Scientist/資料科學家,蜂群電子商務股份有限公司,"軟體設計工程師,Internet程式設計師,演算法開發工程師","1.透過機器學習最佳化派送流程、運輸路徑、補給路線
-2.資料探勘客戶族群、訂單進行統計及分析，開發資料視覺化圖表
-3.建構數據分析環境，並運用Python分析
-4.具有大數據資料解析、數據洞察能力及良好邏輯分析與程式開發能力
-5.能與其他系統開發工作團隊配合
-6.需有2年以上相關工作經驗"
+預計錄取上班日：2022年3月(實際日期依公司正式任用通知日為主)"
+AE - P&R - Application Engineer,Mentor Graphics_愛爾蘭商明導國際股份有限公司台灣分公司,"數位IC設計工程師,FAE工程師,業務支援工程師","Job Description
+
+We are seeking a dynamic, professional and technical individual, who will be responsible for technical selling and support of Siemens EDA’s leading-edge Place and Route (P&R) solutions.
+
+The P&R Applications Engineer will be responsible for working with the account managers to determine the sales execution strategy by identifying and qualifying engagements based on customers’ needs and business opportunities, defining evaluations and/or benchmark criteria and executing the relevant technical campaigns to meet established goals, enabling Siemens EDA P&R solutions’ adoption and deployment into customers’ production flows and providing best-in-class support to ensure customers’ success and broader use of Siemens EDA P&R solutions.
+
+The job will be based in TBD with as much as 25% travel.
+
+The responsibilities for the P&R AE role include, but is not limited to the following:
+
+Job Responsibilities
+
+Assisting Account Managers to determine sales execution strategy by identifying and qualifying the match-up between customer needs and Siemens EDA’s P&R solutions
+Creating and executing winning evaluations and benchmarking strategies and driving the relevant technical engagements to success and business win
+Supporting customers with deployment of P&R solutions and continued proliferation into broader design groups and user base
+Providing technical support to customers in both pre-sales and post-sales situations including technical problem resolution and training
+Communicating customers’ technical requirements to product marketing
+"
 資料科學家 Data Scientist,韋爻研策有限公司,"Internet程式設計師,演算法開發工程師,統計學研究員","工作: 
 - 利用資料科學技術洞察客戶行為數據
 - 執行需求訪談、資料收集、資料清理 、模型建置、資料視覺化等任務
@@ -275,24 +177,68 @@ Data Scientist/資料科學家,蜂群電子商務股份有限公司,"軟體設�
 - 能夠主動學習並自我要求 
 - 對新技術有強烈興趣
 "
-Data Scientist 資料科學家,SuDo_蘇度科技有限公司,"其他資訊專業人員,統計學研究員,金融研究員","工作內容:
-獨立對觀察到的資料進行完整的分析與應用，包含但不限於：
-數據收集
-量化分析與質化分析
-建立預測模型
-開發應用情境
-我們想要研究的標的會隨著團隊的靈感與目標而變，因此我們不預期您具備任何特定領域的先備知識，但也希望您面對不同的主題與挑戰時能夠和團隊一起研究與學習，做出更好的分析結果！
+資料科學家Data Scientist,希卡科技有限公司,"演算法開發工程師,統計學研究員,軟體設計工程師","一、工作內容:
+1、 從不同維度對市場數據以及客戶交易資料，研究並提出創新的量化解決方案。
+2、根據既有的交易產品的報價或統計模型進行研究，提供開發者資料模型並據以在系統上實施及改善。
+3、對網頁高頻報價數據進行資料探勘及分析。
 
-工作形式:
-不需打卡
-原則上彈性工時
-若因工作內容原因需約定工時，我們會事前告知並徵詢您的意見
+二、背景期望:
+1、碩士學歷或實務上工作經歷。
+2、數理、統計、金融相關學經歷 (尤佳)。
+3、熟悉Python及統計、爬蟲相關工具。
+4、熟悉交易所撮合流程(尤佳)。"
+資料科學家 Data Scientist,博賢智能科技有限公司,"軟體設計工程師,演算法開發工程師","Job Description: 
+- Data scientist (data mining, data modeling, data analysis, machine learning applications and other AI domain algorithm applications)
+- Mining big data, analyzing relevant application scenarios and developing AI industry solutions.
+ 
+Requirements:
+- Master degree or above in Statistic, Mathematics, Computer Science or related degree.
+- Adequate expertise and ability to propose projects and methods, at least in one or more of the following technology/industry areas: big data analysis, machine learning, NLP, retail, manufacturing, IOT, environmental research, medical Informatics, logistics or supply chain research.
+- Deep understanding of algorithms and AI
+- Master big data foundation support framework is preferred: Hadoop/Spark(Map/Reduce, HBase/Hive/HDFS, Streaming, Kafka, Flume, Yarn), ElesticsSearch/Solr, Redis and so on.
+- Proficiency in at least one or more of : Java, Python, R, SAS/SPSS, C, C++, Maple, Go, Ruby, JavaScript, SQL.
+- Strong paper or patent publication record is preferred.
+- Excellent communication skills.
+- Fluent English is preferred.
+"
+Data Scientist 資料科學家,Linker Networks Inc._美商寶蘊凌科網路科技有限公司台灣分公司,"軟體設計工程師,演算法開發工程師,其他資訊專業人員","Responsibilities :
 
-其他事項:
-本職務不限於具有金融背景者，但我們也非常歡迎具有量化金融資料分析洞察力的人選
-薪資將依據您具備的技能以及希望的分配（本薪、常規獎金、激勵獎金等）與您協議
-若您的技能遠超出此項職缺所需，我們很樂意與您討論更適合您的職位，並依據該職位議價
-若您具備應徵條件所列以外之技能，也請條列於個人履歷上，我們很重視您的天賦能為我們帶來的貢獻！"
+- Developing deep learning solutions and performance evaluation frameworks according to business project at production-level
+- Partner with engineers and product managers to build the right application for business need
+- Researching on latest DL/ML algorithms or frameworks to find opportunities for growth and efficiency for the data science team
+- Design and analyze experiments; communicate results and launch decisions
+
+
+Qualifications:
+
+- MS or Ph.D. in Computer Science, Engineering, Statistics, Operations Research, Mathematics, or other quantitative fields are preferred
+- Solid understanding of deep learning & machine learning
+- Familiar with Python
+
+Experienced in cutting edge deep learning models and frameworks PyTorch, Tensorflow, etc.
+- Willingness to collaborate and communicate with others to solve a problem
+- Experience of working in a startup is a plus
+
+
+Nice to have:
+
+- Familiar with CUDA programming, and distributed computing.
+- Experience in one of the following topics 3D DL (Point Cloud / Voxels / RGB-D etc.), 3D image geometry, 6D pose estimation."
+Data Scientist / 資料科學家,集邦科技股份有限公司_TRENDFORCE,"軟體設計工程師,演算法開發工程師","Responsibilities
+●Define ML-solvable problems from financial/industrial domains.
+
+●Implement and apply ML models/tools to solve the problems and generate high quality predictions.
+
+Skills and Qualifications
+1. Master degree in finance/data science related domain or Bachelor's degree in related fields.
+2. Good at Python Programming. Code Test is required during interview.
+3. Strong Intrest in stock market/futures market. Investment experience is a plus.
+4. Basic machine learning knowkedge. Machine learning related working experience is a plus. 
+5. Good communication skills and team working ability.
+6. Responsible for your projects.
+7. Experience of gitlab using and code-review is a plus.
+8. Work experience in data cleaning/ data analysis is a plus
+9. Programming-related working experience is a plus (NOT school projects)"
 資料科學家 (Data Scientist),安智聯科技有限公司,"演算法開發工程師,統計學研究員,軟體設計工程師","1. 數據資料前處理（包含數據清洗、特徵工程）
 2. 機器學習、深度學習或其他相關演算法開發
 3. 數據與機器學習模型可視化處理
@@ -301,6 +247,12 @@ Data Scientist 資料科學家,SuDo_蘇度科技有限公司,"其他資訊專業
 7. 修改、維護上市的資料分析系統產品
 8. 協助研發資料分析的新技術與新工具
 9. 配合專案，不定期短期出差大陸"
+Data Scientist/資料科學家,蜂群電子商務股份有限公司,"軟體設計工程師,Internet程式設計師,演算法開發工程師","1.透過機器學習最佳化派送流程、運輸路徑、補給路線
+2.資料探勘客戶族群、訂單進行統計及分析，開發資料視覺化圖表
+3.建構數據分析環境，並運用Python分析
+4.具有大數據資料解析、數據洞察能力及良好邏輯分析與程式開發能力
+5.能與其他系統開發工作團隊配合
+6.需有2年以上相關工作經驗"
 資料科學家-Data Scientist,大慶證券股份有限公司_總管理處,"演算法開發工程師,統計學研究員,軟體設計工程師","關於大慶證券：
 大慶證券於1988年成立，2003年成為上櫃公司，淨資產46.42億元。歷年來秉持「踏實穩健、正派經營」的經營理念，為客戶提供各種金融服務，除了證券交易，還包括投顧、承銷、自營、期貨、信用交易等業務。目前員工人數約350人，在全台灣共有12個營業據點，分佈於北區8處、中區2處、南區2處。併入亞洲價值資本集團後，全新的大慶證券整合了集團多元的金融服務能力，增加資產管理的服務，透過有競爭力的資產管理產品與專業可靠的投資顧問，為客戶與股東創造更多、更完整的價值。
 
@@ -339,6 +291,331 @@ Data Scientist 資料科學家,SuDo_蘇度科技有限公司,"其他資訊專業
 ● 隨著公司的發展成長，可以豐富財務經驗，建立更寬廣及宏觀的財務視野。
 ● 在專業領域嘗試和創造的廣闊空間，成為台灣證券期貨業首創現代化數據團隊的一員，並親歷金融科技變革的前沿。
 ● 接觸大量使用者交易資料及財務模型並隨核心事業成長以提供客戶長期價值。"
+資料科學家 Data Scientist 專職/長期實習,塞席爾商悠福科技股份有限公司,"軟體設計工程師,演算法開發工程師","與團隊配合並了解公司需求以及提出解決方案 (hands-on programming)
+演算法開發及優化 (Algorithm development and optimization)
+進行資料統計分析 (Research and evaluate statistical model)
+協助團隊建立及優化系統 (Cooperate with teams on Machine Learning system)"
+數據科學家Data Scientist or AI/ML Engineer (Data Science & AI Team),鴻海精密工業股份有限公司,"演算法開發工程師,軟體設計工程師,統計學研究員","<About the job>： 
+As the data scientist, you'll join the AI/Big Data Analytics program/projects related to management topics, including Commercial/Industrial Engineering/Supply Chain/Financial Performance/Operation...etc., to build the model or algorithm to empower data-driven & analytics-driven for driving business value from data insights in this world-class company (Fortune Global 500, 22nd).
+
+<Job Description>： 
+．Design, implement and refine advanced Statistical Modeling/Machine Learning/Deep Learning/Numerical Simulation/Optimization Algorithm Models(at least one of the fields)
+．Ensure alignment of modeling initiatives with the requirement goal defined by key stakeholders and company objectives and identify new hypotheses for model improvements. 
+．Executing big data analysis and predictive analytics projects include feature engineering, model building, algorithm development, etc. 
+．Works closely with a team of data system analysts, business data analysts, data engineers, data platform architects, etc. 
+．Collaborate effectively with team members, whether leading tasks or supporting initiatives led by others.
+．Self-motivated, Result-oriented, and interested in applying quantitative methods to solving business and engineering problems.
+
+<Skills>
+．Experience with any one of Machine Learning, Statistical Modeling, Deep Learning(Nature Language/Image), Econometric Modeling, Optimization Algorithm(OR), Numerical Simulation..., etc., model/algorithm building of the practical application in the industry.
+．Familiarity with programming languages like Python or R, or Java. (Good programming skills in Python is a plus). 
+．Advanced ability to perform Exploratory Data Analysis and working knowledge of statistics. 
+．Ability to visualize data in the most effective way possible for a given task, especially visualize models and results and debug and troubleshoot code and models."
+【採線上面談】Senior Data Scientist 資深資料科學家,新加坡商鈦坦科技股份有限公司台灣分公司,"軟體設計工程師,演算法開發工程師,統計學研究員","What a Data Scientist does in Titansoft
+
+1. Apply statistical and machine learning techniques to build models for user classification, fraud detection and other objectives.
+2. Mine, analyze and visualize data from company databases to drive optimization and improve product development, marketing techniques and business strategies.
+3. Identify, understand and solve business problems based on the company's overall targets.
+4. Coordinate with different feature teams to implement models and design proper performance evaluation metrics.
+
+"
+Data Scientist 數據科學家,安索帕股份有限公司,"統計學研究員,軟體相關專案管理師,其他資訊專業人員","Isobar做為數位轉型與數位創新的領導品牌，領先市場佈局打造專業的CR-Marketing顧問諮詢團隊，集結了橫跨數據科學與數位創意的全腦競爭人才，面對高速演化的商業競爭市場，Isobar CR-Marketing顧問團隊扮演數據、創意與策略之間的關鍵轉譯角色，協助品牌透過自身的會員數據來優化CRM操作策略，累積會員數據資產、創造會員數據變現的新商業成長曲線。
+
+在不斷研發創新演算與整合服務的同時，Isobar長期延攬跨界頂尖人才，持續優化團隊並擴大CRM顧問服務的差異化優勢。身為Isobar CR-Marketing團隊的數據科學家，主要的任務是要將品牌核心商業數據透過演算、模型轉化為商業決策的洞察，與CRM商業諮詢顧問共同擬定CRM作業策略建議以及建立具體行動方案。
+我們在找一個具備跨界思考能力的新數據力專業人才，貫穿商業思維、數據演算與行銷策略，徹底融入品牌營運的顧問服務，攜手打造數位轉型時代的新顧問服務模式。
+
+
+Job Responsibilities:
+•	研究跨產業會員關鍵價值行為模式，協助團隊提供客戶在CRM經營策略的建議
+•	依據不同商業主題，建立分析或預測模型(含研究方法)以應用於CRM操作優化
+•	定期協助諮詢顧問製作並優化顧問分析報告：CRM維運追蹤、活動成效⋯等
+•	協助維護、優化既有的CRM會員現況診斷分析流程
+•	配合客戶需求，提供特定商業與消費會員數據議題的研究分析報告以持續優化決策品質
+
+Job Requirement:
+•	熟悉R語言與相關套件(tidyverse、lubridate、caret)
+•	5年以上的數據分析、應用、建模的經驗
+•	至少3個從數據擷取、數據整理、數據分析、數據建模到商業洞察的完整專案執行實務經驗
+•	數理統計模型(Regression、Clustering、Segmentation⋯等)的應用經驗
+"
+"Data Scientist, Smart MFG & AI 資料科學家 (桃園/台中)",台灣美光(台灣美光晶圓科技股份有限公司/台灣美光記憶體股份有限公司/美商美光亞太科技股份有限公司台灣分公司),"演算法開發工程師,軟體設計工程師","As a Data Science Engineer at Micron, you will employ techniques and theories drawn from areas of mathematics, statistics, semiconductor physics, materials science, and information technology to uncover patterns in data from which predictive models, actionable insights, and solutions can be developed.
+You will interact with experienced Data Scientists, Data Engineers, Business Areas Engineers, and UX teams to identify questions and issues for data analysis projects and improvement of existing tools. In this position, you will help develop software programs, algorithms and/or automated processes to cleanse, integrate, and evaluate large datasets from multiple disparate sources. There will be significant opportunities to perform exploratory and new solution development activities.
+
+Responsibilities include, but not limited to:
+•	Strong desire to grow a career as a Data Scientist in highly automated industrial manufacturing doing analysis and machine learning on terabytes and petabytes of diverse datasets.
+•	Experience in the areas: statistical modeling, feature extraction and analysis, supervised/unsupervised/semi-supervised learning. Exposure to the semiconductor industry is a plus but not a requirement.
+•	Ability to extract data from different databases via SQL and other query languages and applying data cleansing, outlier identification, and missing data techniques.
+•	Strong software development skills.
+•	Strong verbal and written communication skills.
+•	Experience with or desire to learn:
+•	Machine learning and other advanced analytical methods
+•	Fluency in Python and/or R
+•	pySpark and/or SparkR and/or SparklyR
+•	Hadoop (Hive, Spark, HBase)
+•	Teradata and/or another SQL databases
+•	Tensorflow, and/or other statistical software including scripting capability for automating analyses
+•	SSIS, ETL
+•	Javascript, AngularJS 2.0, Tableau
+•	Experience working with time-series data, images, semi-supervised learning, and data with frequently changing distributions is a plus
+•	Experience working with Manufacturing Execution Systems (MES) is a plus
+•	Existing papers from CVPR, NIPS, ICML, KDD, and other key conferences are plus, but this is not a research position
+Education:
+•	B.S. in Mathematics, Computer Science, Data Science and Physics.
+•	M.S. or Ph.D. with specialization in Data analytics, mathematics, Physics, Statistics, computer science."
+機器學習演算法工程師/資料科學工程師/Machine Learning Engineer/Data Scientist,Phison Electronics Corp_群聯電子股份有限公司,"演算法開發工程師,統計學研究員,數學研究員","1.Works with large volume of data on the Big Data platform, perform data analysis and mining to generate novel solutions for NAND Flash based storage application.
+2.Development of deep learning algorithm for NAND Flash controller.
+3.Development of DSP for system reliability improvement.
+4.Design the error handling algorithm for NAND Flash based storage system.
+5.Create new visualization software that leverage machine learning and predictive analytic to bring new insights and solution to the business.
+6. Familiar with C language would be plus"
+Data Scientist 資料科學家,SuDo_蘇度科技有限公司,"其他資訊專業人員,統計學研究員,金融研究員","工作內容:
+獨立對觀察到的資料進行完整的分析與應用，包含但不限於：
+數據收集
+量化分析與質化分析
+建立預測模型
+開發應用情境
+我們想要研究的標的會隨著團隊的靈感與目標而變，因此我們不預期您具備任何特定領域的先備知識，但也希望您面對不同的主題與挑戰時能夠和團隊一起研究與學習，做出更好的分析結果！
+
+工作形式:
+不需打卡
+原則上彈性工時
+若因工作內容原因需約定工時，我們會事前告知並徵詢您的意見
+
+其他事項:
+本職務不限於具有金融背景者，但我們也非常歡迎具有量化金融資料分析洞察力的人選
+薪資將依據您具備的技能以及希望的分配（本薪、常規獎金、激勵獎金等）與您協議
+若您的技能遠超出此項職缺所需，我們很樂意與您討論更適合您的職位，並依據該職位議價
+若您具備應徵條件所列以外之技能，也請條列於個人履歷上，我們很重視您的天賦能為我們帶來的貢獻！"
+派遣至LINE_Insight planner (data scientist、資料科學家、資料分析師) [115-371],萬寶華企業管理顧問股份有限公司,"演算法開發工程師,系統分析師,統計學研究員","[Team/Position Description]
+Insight planner uses data to answer business questions and solve business problems. Perform analysis, Machine Learning and statistical techniques to derive insights from data. Provide suggestion and action plan for result applications.
+
+[Responsibilities]
+* Work closely with service planners, business teams and IT to develop data insight solutions
+* Understand and document business users’ report/analysis requirement 
+* Standardize data collection and tracking dimensions for different services
+* Design and develop KPI report and ad-hoc analysis by accessing raw data, analysis tools and reporting tools
+* Leverage Machine Learning/Advanced Analytics approaches to deliver insights and solutions
+
+"
+Data Scientist,聯齊科技股份有限公司,"演算法開發工程師,統計學研究員,其他資訊專業人員","We are looking for excellent data scientist to join our data scientist team. Your responsibility is to create good data analysis product and service related to energy. 
+
+A Data Scientist job description should include, but not be limited to :
+1. Writing python-based analysis module
+2. Developing algorithm & product
+3. Defining problem and design analysis experiment
+4. Analyzing experimental result
+5. Reporting the results back to the relevant members of the business
+6. Identifying patterns and trends in data sets
+
+【Essential Qualification】
+1. Bachelor’s degree or above in Data Science, Statistics, Informatics, Information Systems, or relevant field
+2. 3+ years working experience as the Data Scientist or other equal experience
+3. Knowledge about data mining, machine learning, statistics
+4. Proficient in Python. Know to create Python module.
+5. Experience with numpy, pandas, scikit-learn, tensorflow, conda environment etc.
+6. Good at communication.
+7. Basic SQL knowledge
+
+【Desirable Qualification】
+1. Working experience in IoT, renewable energy, electricity, or other relevant field.
+2. Willing to take responsibility and act independently when necessary.
+3. Strong project management and organizational skills."
+Data Scientist,巨量移動科技有限公司,演算法開發工程師,"(1)協助開發 Data cleaning, Data preprocessing, Feature engineering, Modeling 等自動化資料分析系統
+(2)協助客戶將資料及系統導入 Decanter AI Engine 產品服務
+(3)開發優化 Decanter AI Engine 資料分析演算法
+(4)整合優化 NN 系列 Deep Learning 資料分析演算法
+(5)協助發撰寫專利及案例分析
+(6)資料分析專案管理
+(7)資料視覺化圖表設計"
+"資料科學家 Data Scientist-數據科技(數數發中心, DDT)",國泰金控_國泰金融控股股份有限公司,"統計精算人員,演算法開發工程師,其他資訊專業人員","1. 機器學習、深度學習或統計分析模型的實作開發，包含數據清洗、特徵工程及探索、模型建置與調參
+2. 配合數據技術發展目標，研究與開發可落地實用之新興數據技術，並協助提升金控整體數據技術運用能力
+
+(本職務配合公司數據團隊布局策略，若有必要時需至子公司輪調或任務支援)"
+Data Scientist,美商訊能集思智能科技股份有限公司台灣分公司,演算法開發工程師,"Do you yearn to work with a group of top Software Engineers? Do you want to work on an exciting and promising future vision in the field of Artificial Intelligence and Machine Learning? Synergies is transforming and guiding how businesses make decisions via big data algorithms and analysis. We are an engineering-centric organization and we believe only top engineers can take us there. Join us and transform ourselves and businesses together.
+
+您想與一群頂尖的軟體工程師共事嗎？ 您是否憧憬在人工智能和機器學習領域，Synergies擁有一群專業且熱忱的頂尖技術人員，所開發的產品透過大數據算法與分析，引領企業智能轉型，幫助企業加快決策。誠摯歡迎您的加入，開展令人興奮和充滿希望的願景，與Synergies一起改變世界! 
+
+[職務內容]
+主要負責產品開發，與工程師的密切合作，確保產品在數據分析的方向及功能的設計，讓非數據分析背景的人也能上手。
+
+[責任]
+-開發實用的數據分析方法，將複雜的問題轉換為易於使用的標準化功能。
+-將統計理論和方法轉換為標準化功能，成為我們的旗艦產品JarviX的部份。
+-從多個來源挖掘數據，然後以一種易於一般使用者閱讀和理解的方式在平台上實現。
+-創建有意義的特徵工程方法及模組，並將其應用於我們的平台。
+-掌握對數據分析和預測方法的趨勢和可能方式。
+-建立文件，使JarviX用戶可以簡易地了解數據分析過程的步驟。
+-與工程師及團隊協作，並對系統提出，數據分析方面的修改和精進。
+-從數據中產出洞察和見解，找出趨勢和其它理解該數據的方法。
+-將數據解釋和分析的方法，轉換成在平台上豐富的交互式可視化的功能。
+-定義並實施ETL的最佳邏輯，以確保JarviX平台上具有最佳的可擴展性。
+
+[要求]
+-博士畢業 (統計或資訊相關科系)
+-二年以上資料結構，資料探勘，資料分析實務經驗，具基礎程式能力及CRM分析經驗。
+-瞭解統計學相關知識：百分位數，箱線圖，標準差，皮爾遜相關係數，貝葉斯定理，正態分佈，卡方分佈，假設檢驗等。
+-熟悉SQL語法：比如Mysql資料庫。
+-熟悉python資料分析常用庫：pandas、numpy、matplotlib、Seaborn，能夠利用python做資料視覺化、資料探索、資料預處理。
+-對數據資料有敏感度且有熱情。
+-熟悉機器學習相關演算法及知識, 如Boosting Algorithms, Random Forest, Neural Networks etc.
+"
+#210202981 CIB Cash Equities Operations Specialist (502),摩根大通證券股份有限公司,"券商後線人員,銀行辦事員","Job Functions/ Responsibilities:
+•	Delivery of overall service model to the business to high level of client and business satisfaction for Taiwan market trading.
+•	Delivery of overall service model in compliance with
+•	JPMorgan policy and market rules
+•	Escalate unusual problems to managers.
+Operations Support Specific :
+A/C Opening :
+•	Liaise with local custodians, clients, legal, compliance and regional teams for:
+•	Clients’ enquiry on the terms and conditions of the a/c opening agreement.
+•	Collecting doc required
+•	Updating client ref. data in local and regional systems.
+Core Processing ( Middle office + Settlement) :
+Act as client services and the key contact to sales, sales traders, dealers, auditors, compliances, legal, tech, regulators and etc. for : 
+•	Trade confirmation
+•	Trade pre-matching
+•	Settlement & clearance
+•	System enhancement if needed
+Securities Borrowing and Lending transaction
+Act as client services and the key contact to sales, sales traders, dealers, auditors, compliances, legal, tech, regulators and etc. for : 
+•	Trade Reporting 
+•	SBL related events. "
+水晶軒專櫃人員(高雄區)底薪固定13個月+獎金,香港商施華洛世奇有限公司台灣分公司,門市／店員／專櫃人員,"百貨公司專櫃小姐/先生(試用期保障薪資)
+1.負責介紹及銷售商品。 
+2.提供顧客之接待與需求服務。 
+3.負責商品進貨入庫、銷售管理及庫存管理。 
+4.負責商品包裝、陳列及促銷品換檔工作。 
+5.維持店櫃週遭之整潔。
+6.店櫃人員訓練與管理。"
+AE - P&R - Application Engineer,Mentor Graphics_愛爾蘭商明導國際股份有限公司台灣分公司,"數位IC設計工程師,FAE工程師,業務支援工程師","Job Description
+
+We are seeking a dynamic, professional and technical individual, who will be responsible for technical selling and support of Siemens EDA’s leading-edge Place and Route (P&R) solutions.
+
+The P&R Applications Engineer will be responsible for working with the account managers to determine the sales execution strategy by identifying and qualifying engagements based on customers’ needs and business opportunities, defining evaluations and/or benchmark criteria and executing the relevant technical campaigns to meet established goals, enabling Siemens EDA P&R solutions’ adoption and deployment into customers’ production flows and providing best-in-class support to ensure customers’ success and broader use of Siemens EDA P&R solutions.
+
+The job will be based in TBD with as much as 25% travel.
+
+The responsibilities for the P&R AE role include, but is not limited to the following:
+
+Job Responsibilities
+
+Assisting Account Managers to determine sales execution strategy by identifying and qualifying the match-up between customer needs and Siemens EDA’s P&R solutions
+Creating and executing winning evaluations and benchmarking strategies and driving the relevant technical engagements to success and business win
+Supporting customers with deployment of P&R solutions and continued proliferation into broader design groups and user base
+Providing technical support to customers in both pre-sales and post-sales situations including technical problem resolution and training
+Communicating customers’ technical requirements to product marketing
+"
+經營管理師-遠端面談,104人力銀行_一零四資訊科技股份有限公司,"財務分析／財務人員,營運管理師／系統整合／ERP專案師,統計學研究員","a)Budget/actual financial performance review on P&L, CAPEX, related key drivers for products/business 
+b)New business evaluation 
+c)Build up and administrate for related financial system, such as Revenue Model, Process improvement and simplification 
+d)BI / management software build up / data identification / data mining
+e)Control business risk, find root cause and provide recommendation 
+f)Ad-hoc projects"
+"SR. ENGINEER, MATERIAL CHARACTERIZATION",台灣美光(台灣美光晶圓科技股份有限公司/台灣美光記憶體股份有限公司/美商美光亞太科技股份有限公司台灣分公司),"IC封裝／測試工程師,半導體工程師","As a Sr. Material Characterization Engineer-Advanced Packaging Technology Development you will be responsible for global coordination of mechanical characterization and testing for advanced packaging development efforts. You will develop and document test methods as needed to characterize materials, processes, and semiconductor packages to globally support Materials Engineering, Simulation Engineering, Process Development Engineering, Process Engineering, QRA Engineering, and Supplier Quality Engineering teams. You will review and summarize data to provide recommendations or material roadmap to these teams. You will develop and enable new mechanical characterization methods for advanced materials and package technology concepts that are capable of enabling global site requirements. You will provide recommendations for test structure and test vehicle design. Close collaboration with multiple engineering teams in Close collaboration with multiple engineering teams in development, process integration, design, assembly, product engineering, and quality is required."
+★年後再報到★AI工程師(MLOps Engineer),奇美實業股份有限公司,"軟體設計工程師,其他資訊專業人員,演算法開發工程師","※【本職缺僅接受奇美實業官方網站投遞履歷】
+請至奇美人才網投遞個人履歷表，奇美人才網網址：http://www.chimeicorp.com/recruit/
+
+★此為2022年度人力計劃性招募，採批次面試，預計於2021.12月進行面試通知與安排，請靜候佳音!
+須具備：
+1.資訊相關科系，MLOps 2年以上經驗
+2.具備 ML/CV 的設計開發概念及維運經驗
+3.建置過或有使用過現成的 MLOps Platform 去解決資料分享、模型開發、與模型版控的問題
+4.Docker 或其他容器化技術，具K8S維運概念
+5.有 AIoT 或 Cloud 經驗佳
+6.跨團隊合作，樂於學習新技術，樂於分享技術和經驗，幫助他人共同進步。
+
+工作內容：
+1.AI落地所需的服務整合，模型部署之架構規劃與實作。建置基礎設施以協助 ML/CV 產品的開發。
+2.與前後端、AI 開發人員等不同部門、不同團隊成員或各廠商協作，規劃、建構、部署、維運、與最佳化ML/CV相關的各種服務。
+3.業務包括但不限於：了解各團隊需求、資料建模、資料分析、資料串接、ML/CV模型訓練、流程自動化、模型部署、及服務監控。
+
+工作地點：台南市仁德區中正路398號
+
+預計錄取上班日：2022年3月(實際日期依公司正式任用通知日為主)"
+Developer,香港商柏駿資本管理(香港)有限公司 Polymer Capital Management (HK) Limited,"軟體設計工程師,Internet程式設計師","Introduction:
+Our team deals with data analytics and visualization, multiple projects running involving risk analytics, risk monitoring and quantitative research.
+Major languages in use are C#, JavaScript/TypeScript and Python.
+The development work covers end-to-end process, database schema design, API design and front-end UI/UX design.
+We also follow DevOps practices, build, test and deploy by ourselves. By using the Git branching model, pull requests and CI/CD tools, we enforce peer reviews and automated tests to ensure code quality
+
+Good to Have
+• Already familiar with our major languages C#, JavaScript and Python, able to code solutions end-to-end
+• Already Familiar with SQL/NoSQL databases, .NET Core, React, Redux, FastAPI and Anaconda, RESTful API and gRPC
+• Already familiar with CI/CD setup, AWS/GCP, CDK/Terraform, Kubernetes, Docker, Linux Bash and Windows Cmd
+• Good mathematics and statistic knowledge (understand concepts like matrix and related operations, correlation, standard deviation, etc.)
+Not Required:
+• Financial background is not mandatory, every fund works different, financial concepts here should be easy to understand, we don't expect you to come from other hedge funds or investment banks
+"
+JAVA 程式設計師,Atos_台灣源訊科技股份有限公司,"軟體設計工程師,Internet程式設計師",應用資訊系統之規劃、設計、程式撰寫及維護。
+"ENGINEER, PACKAGE ASSEMBLY PROCESS INTEGRATION",台灣美光(台灣美光晶圓科技股份有限公司/台灣美光記憶體股份有限公司/美商美光亞太科技股份有限公司台灣分公司),"IC封裝／測試工程師,半導體工程師","Specific Responsibilities: 
+
+Advanced package technology (chip stacking, 2.5D or 3D) research and development
+PWF(MEOL) and Assembly Process Integration for 3DI/TSV HBM(High Bandwidth Memory) 
+Familiar with JMP data analysis and DOE matrix design and analysis
+Material characterization experience
+Process problem identification and solving
+Work effectively to produce cross sections cooperation 
+
+According to the ""Employment Service Act"", positions with salary lower than NTD$40,000, please refer to the salary information in the job description. Positions with salary over than NTD$40,000 will be subject to be discussed during interview."
+[社會新鮮人] Kaohsiung-Equipment Engineer 設備工程師,NXP Semiconductors Taiwan Ltd._台灣恩智浦半導體股份有限公司,"生產設備工程師,半導體工程師,半導體設備工程師","- Data analysis to ensure handler work on baseline. Ex. MCBA, index time, temperature control and HW interface maintenance 
+資料分析確保機台運作在基準條件, 包含作動不順, 作動時間, 溫度控制, 及機台介面維護 
+- SOP, OCAP, PM document creation. 
+建立標準化流程,異常處理文件,及保養維護文件
+- Responsible for the performance of handler.
+負責機台性能及相關報告
+- Handle the improvement project on handler.
+持續進行機台的改善計畫
+- Management recipes of handler and spare parts
+機台參數管理及備品管理
+- Provide technology and operation training to shift assistant engineer and operators in manufacture lines to support production smoothly. 訓練助理工程師與作業員以利生產線順利運作
+- Co-work with worldwide handler team for evaluation/improvement
+與其他機台團隊跨國合作, 導入評估, 問題改善"
+資料科學家 Data Scientist,韋爻研策有限公司,"Internet程式設計師,演算法開發工程師,統計學研究員","工作: 
+- 利用資料科學技術洞察客戶行為數據
+- 執行需求訪談、資料收集、資料清理 、模型建置、資料視覺化等任務
+- 機器學習/深度學習/文字探勘演算法開發應用
+
+條件: 
+- 良好的溝通與表達能力
+- 善資料視覺化
+- 熟SQL、Python
+- 熟悉機器學習方法
+- 熟文字探勘 (Text Mining) 基礎知識
+ 
+加分: 
+- 大數據(Big Data)雲端系統開發(Hadoop/NoSQL)
+- Open Data分析及加值應用
+- NLP實務經驗
+ 
+人格特質: 
+- 樂於溝通討論，能與團隊一起解決問題 
+- 能夠主動學習並自我要求 
+- 對新技術有強烈興趣
+"
+資料科學家Data Scientist,希卡科技有限公司,"演算法開發工程師,統計學研究員,軟體設計工程師","一、工作內容:
+1、 從不同維度對市場數據以及客戶交易資料，研究並提出創新的量化解決方案。
+2、根據既有的交易產品的報價或統計模型進行研究，提供開發者資料模型並據以在系統上實施及改善。
+3、對網頁高頻報價數據進行資料探勘及分析。
+
+二、背景期望:
+1、碩士學歷或實務上工作經歷。
+2、數理、統計、金融相關學經歷 (尤佳)。
+3、熟悉Python及統計、爬蟲相關工具。
+4、熟悉交易所撮合流程(尤佳)。"
+資料科學家 Data Scientist,博賢智能科技有限公司,"軟體設計工程師,演算法開發工程師","Job Description: 
+- Data scientist (data mining, data modeling, data analysis, machine learning applications and other AI domain algorithm applications)
+- Mining big data, analyzing relevant application scenarios and developing AI industry solutions.
+ 
+Requirements:
+- Master degree or above in Statistic, Mathematics, Computer Science or related degree.
+- Adequate expertise and ability to propose projects and methods, at least in one or more of the following technology/industry areas: big data analysis, machine learning, NLP, retail, manufacturing, IOT, environmental research, medical Informatics, logistics or supply chain research.
+- Deep understanding of algorithms and AI
+- Master big data foundation support framework is preferred: Hadoop/Spark(Map/Reduce, HBase/Hive/HDFS, Streaming, Kafka, Flume, Yarn), ElesticsSearch/Solr, Redis and so on.
+- Proficiency in at least one or more of : Java, Python, R, SAS/SPSS, C, C++, Maple, Go, Ruby, JavaScript, SQL.
+- Strong paper or patent publication record is preferred.
+- Excellent communication skills.
+- Fluent English is preferred.
+"
 Data Scientist 資料科學家,Linker Networks Inc._美商寶蘊凌科網路科技有限公司台灣分公司,"軟體設計工程師,演算法開發工程師,其他資訊專業人員","Responsibilities :
 
 - Developing deep learning solutions and performance evaluation frameworks according to business project at production-level
@@ -362,48 +639,101 @@ Nice to have:
 
 - Familiar with CUDA programming, and distributed computing.
 - Experience in one of the following topics 3D DL (Point Cloud / Voxels / RGB-D etc.), 3D image geometry, 6D pose estimation."
-Computer Vision Data Scientist,百威雷科技有限公司,"軟體設計工程師,演算法開發工程師","We are a fast-growing, research-driven company building AI solutions that helps corporate and factories overcome the challenges they face every day. Using novel machine learning techniques, we are revolutionizing the industry and have a track record of building things that others have ruled out as impossible. Our team is our best asset. We work with smart and talented individuals, who all enjoy a high degree of responsibility and independence in structuring their work. The team are looking for passionate data scientist who are keen to work with like-minded individuals in a rapidly evolving environment. 
+Data Scientist / 資料科學家,集邦科技股份有限公司_TRENDFORCE,"軟體設計工程師,演算法開發工程師","Responsibilities
+●Define ML-solvable problems from financial/industrial domains.
 
-Role & Responsibilities
-‧ Research, design, implement and evaluate novel computer vision algorithms.
-· Work closely with sales team, data scientist team and product engineering teams to drive model implementations and new algorithms.
-‧ Deliver technical advice to our partners.
-‧ Interact with customer directly to understand the business problems and aid them in implementation of their ML solutions.
-‧ Develop innovative algorithmic tools that add value to our data products.
-‧ Developing high quality, low latency ML models.
+●Implement and apply ML models/tools to solve the problems and generate high quality predictions.
 
-Basic Qualifications
+Skills and Qualifications
+1. Master degree in finance/data science related domain or Bachelor's degree in related fields.
+2. Good at Python Programming. Code Test is required during interview.
+3. Strong Intrest in stock market/futures market. Investment experience is a plus.
+4. Basic machine learning knowkedge. Machine learning related working experience is a plus. 
+5. Good communication skills and team working ability.
+6. Responsible for your projects.
+7. Experience of gitlab using and code-review is a plus.
+8. Work experience in data cleaning/ data analysis is a plus
+9. Programming-related working experience is a plus (NOT school projects)"
+資料科學家 (Data Scientist),安智聯科技有限公司,"演算法開發工程師,統計學研究員,軟體設計工程師","1. 數據資料前處理（包含數據清洗、特徵工程）
+2. 機器學習、深度學習或其他相關演算法開發
+3. 數據與機器學習模型可視化處理
+5. 依專案需求，參與系統架構流程規劃
+6. 協同前端、後端工程師進行系統整合
+7. 修改、維護上市的資料分析系統產品
+8. 協助研發資料分析的新技術與新工具
+9. 配合專案，不定期短期出差大陸"
+Data Scientist/資料科學家,蜂群電子商務股份有限公司,"軟體設計工程師,Internet程式設計師,演算法開發工程師","1.透過機器學習最佳化派送流程、運輸路徑、補給路線
+2.資料探勘客戶族群、訂單進行統計及分析，開發資料視覺化圖表
+3.建構數據分析環境，並運用Python分析
+4.具有大數據資料解析、數據洞察能力及良好邏輯分析與程式開發能力
+5.能與其他系統開發工作團隊配合
+6.需有2年以上相關工作經驗"
+資料科學家-Data Scientist,大慶證券股份有限公司_總管理處,"演算法開發工程師,統計學研究員,軟體設計工程師","關於大慶證券：
+大慶證券於1988年成立，2003年成為上櫃公司，淨資產46.42億元。歷年來秉持「踏實穩健、正派經營」的經營理念，為客戶提供各種金融服務，除了證券交易，還包括投顧、承銷、自營、期貨、信用交易等業務。目前員工人數約350人，在全台灣共有12個營業據點，分佈於北區8處、中區2處、南區2處。併入亞洲價值資本集團後，全新的大慶證券整合了集團多元的金融服務能力，增加資產管理的服務，透過有競爭力的資產管理產品與專業可靠的投資顧問，為客戶與股東創造更多、更完整的價值。
 
-· PhD in computer vision/machine learning or related experience.
-· 3+ years of relevant experience in building production-scale system/algorithm in one of the following domains: computer vision, deep learning, or machine learning.
-· 2-3 years of modeling experience working with deep learning frameworks like Pytorch or MxNet.
-· Current hands-on experience with state-of-the-art object detection approaches (e.g. Faster RCNN, Yolov4, Yolor, CenterNet etc.)
-· Understanding of deep learning CV evaluation metrics including mAP, F_beta, PR curves, etc.
-· Team player with excellent interpersonal skills.
+職位概述：
+我們在尋找一位細心、有責任感、熱愛與透過數據找到真相的夥伴，透過內外部市場，業務及客戶數字挖掘業務機會、賦能公司運作。這個角色負責集團的內外部數據整合及分析工作，並建立大數據平台以支援內部使用者預測、規劃、分析公司營運數據及策略，提供數據導向的洞見。另外使用大數據及機器學習科技，參與金融科技產品開發以持續創造價值給我們的客戶。如果你喜歡在繁瑣的數據中梳理背後的含義和真相，通過數據和洞察幫助別人，以改進社會和組織，這將是合適你的角色。
 
-Preferred Qualifications
+工作職責：
+● 將跨團隊之商業機會與需求，轉換為具體的分析目標，支持公司產品發展與數據決策
+結合大量數據，進行數據清理、萃取特徵，透過分析方法與演算技術，開發與實現數據產品
+● 支持各團隊的數據與分析需求：產品、行銷、策略、業務團隊等
+● 與數據工程師及產品開發團隊合作，參與統計及機器學習模型研究開發並導入內部數據產品及客戶端金融科技產品以兼顧使用者體驗與模型準確性
 
-· Broad knowledge of fundamentals and state-of-the-art in computer vision/machine learning.
-· Experience leveraging and augmenting large code base and computer vision/machine libraries/toolkits to deliver new solutions.
-· Experience extending object detection models to multi-object, multi-label tracking
-· Experience working with motion imagery datasets (e.g. Full Motion Video/ FMV, Wide Area Motion Imagery/ WAMI) is a plus.
-· Familiarity deploying solutions to IoT/edge platforms (e.g. NVIDIA Jetson Xavier).
-· An Advantage: Experience in publishing at major computer science conferences or journals.
-· An Advantage: Experience contributing to research communities, including publishing papers at conferences.
+● Cooperate with cross-functional teams throughout the organization to identify opportunities for leveraging company data to drive business solutions.
+● Mine, manipulate and apply statistical analysis and machine learning algorithm on multiple data sets to build scalable enterprise data solutions.
+● Work with large, complex data sets. Conduct analysis that includes business understanding, data gathering, processing, analysis, predictive modeling, ongoing deliverables, and presentations.
+● Work with data engineers on the design and deployment of Business Intelligent dashboard
+● Applies advanced statistical and predictive modeling techniques to build, maintain, verify and improve on multiple real-time systems.
 
-**Please attach a copy of your resume in English. 
-**欲應徵者請附英文履歷提供審查  "
-Data Scientist,巨量移動科技有限公司,演算法開發工程師,"(1)協助開發 Data cleaning, Data preprocessing, Feature engineering, Modeling 等自動化資料分析系統
-(2)協助客戶將資料及系統導入 Decanter AI Engine 產品服務
-(3)開發優化 Decanter AI Engine 資料分析演算法
-(4)整合優化 NN 系列 Deep Learning 資料分析演算法
-(5)協助發撰寫專利及案例分析
-(6)資料分析專案管理
-(7)資料視覺化圖表設計"
-AI人工智能資料科學家 (Data Scientist),東元電機股份有限公司,"軟體設計工程師,演算法開發工程師","1.建立端對端(End-to-End) AI分析流程「數據收集-數據處理-特徵工程-模型訓練-模型推論-決策建議-人機協作-行動體驗-視覺呈現」的系統化工程與快速的POC(Proof of Concept)方案驗證。
-2.整合運用先進資訊技術/認知運算技術/物聯網技術，建立企業AI下水道工程。
-3.設計、協助及管理數據分析服務及人工智慧專案等業務之推動
-4.建立可分享重用的資料庫，並以統計、機器學習與深度學習分析內外部客戶資料，提供合適的解決方案。"
+任職要求：
+● 資料科學、統計數學、資訊或量化分析相關科系碩士
+● 三年以上數據科學相關經驗
+● 熟悉 Python 或 R 程式語言
+● 熟悉SQL 或 NoSQL資料操作
+● 資料視覺化工具使用，如：Tableau
+
+● Strong problem solving skills with an emphasis on product development.
+● Good communication skills for coordinating across teams.
+● 2+ years hands-on experience in data science field
+● Experience using languages Python or R
+● Experience using SQL or NoSQL to manipulate data
+● Familiar with data visualization tool, such as Tableau
+● Master’s degree in data science, statistics, mathematics, computer science or related quantitative field
+
+加入大慶證券, 你會收穫：
+● 加入一個開放、好學、有夢想的團隊，沒有辦公室政治，沒有繁文縟節，一同專注為客戶提供價值。
+● 隨著公司的發展成長，可以豐富財務經驗，建立更寬廣及宏觀的財務視野。
+● 在專業領域嘗試和創造的廣闊空間，成為台灣證券期貨業首創現代化數據團隊的一員，並親歷金融科技變革的前沿。
+● 接觸大量使用者交易資料及財務模型並隨核心事業成長以提供客戶長期價值。"
+資料科學家 Data Scientist 專職/長期實習,塞席爾商悠福科技股份有限公司,"軟體設計工程師,演算法開發工程師","與團隊配合並了解公司需求以及提出解決方案 (hands-on programming)
+演算法開發及優化 (Algorithm development and optimization)
+進行資料統計分析 (Research and evaluate statistical model)
+協助團隊建立及優化系統 (Cooperate with teams on Machine Learning system)"
+數據科學家Data Scientist or AI/ML Engineer (Data Science & AI Team),鴻海精密工業股份有限公司,"演算法開發工程師,軟體設計工程師,統計學研究員","<About the job>： 
+As the data scientist, you'll join the AI/Big Data Analytics program/projects related to management topics, including Commercial/Industrial Engineering/Supply Chain/Financial Performance/Operation...etc., to build the model or algorithm to empower data-driven & analytics-driven for driving business value from data insights in this world-class company (Fortune Global 500, 22nd).
+
+<Job Description>： 
+．Design, implement and refine advanced Statistical Modeling/Machine Learning/Deep Learning/Numerical Simulation/Optimization Algorithm Models(at least one of the fields)
+．Ensure alignment of modeling initiatives with the requirement goal defined by key stakeholders and company objectives and identify new hypotheses for model improvements. 
+．Executing big data analysis and predictive analytics projects include feature engineering, model building, algorithm development, etc. 
+．Works closely with a team of data system analysts, business data analysts, data engineers, data platform architects, etc. 
+．Collaborate effectively with team members, whether leading tasks or supporting initiatives led by others.
+．Self-motivated, Result-oriented, and interested in applying quantitative methods to solving business and engineering problems.
+
+<Skills>
+．Experience with any one of Machine Learning, Statistical Modeling, Deep Learning(Nature Language/Image), Econometric Modeling, Optimization Algorithm(OR), Numerical Simulation..., etc., model/algorithm building of the practical application in the industry.
+．Familiarity with programming languages like Python or R, or Java. (Good programming skills in Python is a plus). 
+．Advanced ability to perform Exploratory Data Analysis and working knowledge of statistics. 
+．Ability to visualize data in the most effective way possible for a given task, especially visualize models and results and debug and troubleshoot code and models."
+【採線上面談】Senior Data Scientist 資深資料科學家,新加坡商鈦坦科技股份有限公司台灣分公司,"軟體設計工程師,演算法開發工程師,統計學研究員","What a Data Scientist does in Titansoft
+
+1. Apply statistical and machine learning techniques to build models for user classification, fraud detection and other objectives.
+2. Mine, analyze and visualize data from company databases to drive optimization and improve product development, marketing techniques and business strategies.
+3. Identify, understand and solve business problems based on the company's overall targets.
+4. Coordinate with different feature teams to implement models and design proper performance evaluation metrics.
+
+"
 Data Scientist 數據科學家,安索帕股份有限公司,"統計學研究員,軟體相關專案管理師,其他資訊專業人員","Isobar做為數位轉型與數位創新的領導品牌，領先市場佈局打造專業的CR-Marketing顧問諮詢團隊，集結了橫跨數據科學與數位創意的全腦競爭人才，面對高速演化的商業競爭市場，Isobar CR-Marketing顧問團隊扮演數據、創意與策略之間的關鍵轉譯角色，協助品牌透過自身的會員數據來優化CRM操作策略，累積會員數據資產、創造會員數據變現的新商業成長曲線。
 
 在不斷研發創新演算與整合服務的同時，Isobar長期延攬跨界頂尖人才，持續優化團隊並擴大CRM顧問服務的差異化優勢。身為Isobar CR-Marketing團隊的數據科學家，主要的任務是要將品牌核心商業數據透過演算、模型轉化為商業決策的洞察，與CRM商業諮詢顧問共同擬定CRM作業策略建議以及建立具體行動方案。
@@ -423,6 +753,181 @@ Job Requirement:
 •	至少3個從數據擷取、數據整理、數據分析、數據建模到商業洞察的完整專案執行實務經驗
 •	數理統計模型(Regression、Clustering、Segmentation⋯等)的應用經驗
 "
+"Data Scientist, Smart MFG & AI 資料科學家 (桃園/台中)",台灣美光(台灣美光晶圓科技股份有限公司/台灣美光記憶體股份有限公司/美商美光亞太科技股份有限公司台灣分公司),"演算法開發工程師,軟體設計工程師","As a Data Science Engineer at Micron, you will employ techniques and theories drawn from areas of mathematics, statistics, semiconductor physics, materials science, and information technology to uncover patterns in data from which predictive models, actionable insights, and solutions can be developed.
+You will interact with experienced Data Scientists, Data Engineers, Business Areas Engineers, and UX teams to identify questions and issues for data analysis projects and improvement of existing tools. In this position, you will help develop software programs, algorithms and/or automated processes to cleanse, integrate, and evaluate large datasets from multiple disparate sources. There will be significant opportunities to perform exploratory and new solution development activities.
+
+Responsibilities include, but not limited to:
+•	Strong desire to grow a career as a Data Scientist in highly automated industrial manufacturing doing analysis and machine learning on terabytes and petabytes of diverse datasets.
+•	Experience in the areas: statistical modeling, feature extraction and analysis, supervised/unsupervised/semi-supervised learning. Exposure to the semiconductor industry is a plus but not a requirement.
+•	Ability to extract data from different databases via SQL and other query languages and applying data cleansing, outlier identification, and missing data techniques.
+•	Strong software development skills.
+•	Strong verbal and written communication skills.
+•	Experience with or desire to learn:
+•	Machine learning and other advanced analytical methods
+•	Fluency in Python and/or R
+•	pySpark and/or SparkR and/or SparklyR
+•	Hadoop (Hive, Spark, HBase)
+•	Teradata and/or another SQL databases
+•	Tensorflow, and/or other statistical software including scripting capability for automating analyses
+•	SSIS, ETL
+•	Javascript, AngularJS 2.0, Tableau
+•	Experience working with time-series data, images, semi-supervised learning, and data with frequently changing distributions is a plus
+•	Experience working with Manufacturing Execution Systems (MES) is a plus
+•	Existing papers from CVPR, NIPS, ICML, KDD, and other key conferences are plus, but this is not a research position
+Education:
+•	B.S. in Mathematics, Computer Science, Data Science and Physics.
+•	M.S. or Ph.D. with specialization in Data analytics, mathematics, Physics, Statistics, computer science."
+機器學習演算法工程師/資料科學工程師/Machine Learning Engineer/Data Scientist,Phison Electronics Corp_群聯電子股份有限公司,"演算法開發工程師,統計學研究員,數學研究員","1.Works with large volume of data on the Big Data platform, perform data analysis and mining to generate novel solutions for NAND Flash based storage application.
+2.Development of deep learning algorithm for NAND Flash controller.
+3.Development of DSP for system reliability improvement.
+4.Design the error handling algorithm for NAND Flash based storage system.
+5.Create new visualization software that leverage machine learning and predictive analytic to bring new insights and solution to the business.
+6. Familiar with C language would be plus"
+Data Scientist 資料科學家,SuDo_蘇度科技有限公司,"其他資訊專業人員,統計學研究員,金融研究員","工作內容:
+獨立對觀察到的資料進行完整的分析與應用，包含但不限於：
+數據收集
+量化分析與質化分析
+建立預測模型
+開發應用情境
+我們想要研究的標的會隨著團隊的靈感與目標而變，因此我們不預期您具備任何特定領域的先備知識，但也希望您面對不同的主題與挑戰時能夠和團隊一起研究與學習，做出更好的分析結果！
+
+工作形式:
+不需打卡
+原則上彈性工時
+若因工作內容原因需約定工時，我們會事前告知並徵詢您的意見
+
+其他事項:
+本職務不限於具有金融背景者，但我們也非常歡迎具有量化金融資料分析洞察力的人選
+薪資將依據您具備的技能以及希望的分配（本薪、常規獎金、激勵獎金等）與您協議
+若您的技能遠超出此項職缺所需，我們很樂意與您討論更適合您的職位，並依據該職位議價
+若您具備應徵條件所列以外之技能，也請條列於個人履歷上，我們很重視您的天賦能為我們帶來的貢獻！"
+派遣至LINE_Insight planner (data scientist、資料科學家、資料分析師) [115-371],萬寶華企業管理顧問股份有限公司,"演算法開發工程師,系統分析師,統計學研究員","[Team/Position Description]
+Insight planner uses data to answer business questions and solve business problems. Perform analysis, Machine Learning and statistical techniques to derive insights from data. Provide suggestion and action plan for result applications.
+
+[Responsibilities]
+* Work closely with service planners, business teams and IT to develop data insight solutions
+* Understand and document business users’ report/analysis requirement 
+* Standardize data collection and tracking dimensions for different services
+* Design and develop KPI report and ad-hoc analysis by accessing raw data, analysis tools and reporting tools
+* Leverage Machine Learning/Advanced Analytics approaches to deliver insights and solutions
+
+"
+Data Scientist,聯齊科技股份有限公司,"演算法開發工程師,統計學研究員,其他資訊專業人員","We are looking for excellent data scientist to join our data scientist team. Your responsibility is to create good data analysis product and service related to energy. 
+
+A Data Scientist job description should include, but not be limited to :
+1. Writing python-based analysis module
+2. Developing algorithm & product
+3. Defining problem and design analysis experiment
+4. Analyzing experimental result
+5. Reporting the results back to the relevant members of the business
+6. Identifying patterns and trends in data sets
+
+【Essential Qualification】
+1. Bachelor’s degree or above in Data Science, Statistics, Informatics, Information Systems, or relevant field
+2. 3+ years working experience as the Data Scientist or other equal experience
+3. Knowledge about data mining, machine learning, statistics
+4. Proficient in Python. Know to create Python module.
+5. Experience with numpy, pandas, scikit-learn, tensorflow, conda environment etc.
+6. Good at communication.
+7. Basic SQL knowledge
+
+【Desirable Qualification】
+1. Working experience in IoT, renewable energy, electricity, or other relevant field.
+2. Willing to take responsibility and act independently when necessary.
+3. Strong project management and organizational skills."
+Data Scientist,巨量移動科技有限公司,演算法開發工程師,"(1)協助開發 Data cleaning, Data preprocessing, Feature engineering, Modeling 等自動化資料分析系統
+(2)協助客戶將資料及系統導入 Decanter AI Engine 產品服務
+(3)開發優化 Decanter AI Engine 資料分析演算法
+(4)整合優化 NN 系列 Deep Learning 資料分析演算法
+(5)協助發撰寫專利及案例分析
+(6)資料分析專案管理
+(7)資料視覺化圖表設計"
+"資料科學家 Data Scientist-數據科技(數數發中心, DDT)",國泰金控_國泰金融控股股份有限公司,"統計精算人員,演算法開發工程師,其他資訊專業人員","1. 機器學習、深度學習或統計分析模型的實作開發，包含數據清洗、特徵工程及探索、模型建置與調參
+2. 配合數據技術發展目標，研究與開發可落地實用之新興數據技術，並協助提升金控整體數據技術運用能力
+
+(本職務配合公司數據團隊布局策略，若有必要時需至子公司輪調或任務支援)"
+Data Scientist,美商訊能集思智能科技股份有限公司台灣分公司,演算法開發工程師,"Do you yearn to work with a group of top Software Engineers? Do you want to work on an exciting and promising future vision in the field of Artificial Intelligence and Machine Learning? Synergies is transforming and guiding how businesses make decisions via big data algorithms and analysis. We are an engineering-centric organization and we believe only top engineers can take us there. Join us and transform ourselves and businesses together.
+
+您想與一群頂尖的軟體工程師共事嗎？ 您是否憧憬在人工智能和機器學習領域，Synergies擁有一群專業且熱忱的頂尖技術人員，所開發的產品透過大數據算法與分析，引領企業智能轉型，幫助企業加快決策。誠摯歡迎您的加入，開展令人興奮和充滿希望的願景，與Synergies一起改變世界! 
+
+[職務內容]
+主要負責產品開發，與工程師的密切合作，確保產品在數據分析的方向及功能的設計，讓非數據分析背景的人也能上手。
+
+[責任]
+-開發實用的數據分析方法，將複雜的問題轉換為易於使用的標準化功能。
+-將統計理論和方法轉換為標準化功能，成為我們的旗艦產品JarviX的部份。
+-從多個來源挖掘數據，然後以一種易於一般使用者閱讀和理解的方式在平台上實現。
+-創建有意義的特徵工程方法及模組，並將其應用於我們的平台。
+-掌握對數據分析和預測方法的趨勢和可能方式。
+-建立文件，使JarviX用戶可以簡易地了解數據分析過程的步驟。
+-與工程師及團隊協作，並對系統提出，數據分析方面的修改和精進。
+-從數據中產出洞察和見解，找出趨勢和其它理解該數據的方法。
+-將數據解釋和分析的方法，轉換成在平台上豐富的交互式可視化的功能。
+-定義並實施ETL的最佳邏輯，以確保JarviX平台上具有最佳的可擴展性。
+
+[要求]
+-博士畢業 (統計或資訊相關科系)
+-二年以上資料結構，資料探勘，資料分析實務經驗，具基礎程式能力及CRM分析經驗。
+-瞭解統計學相關知識：百分位數，箱線圖，標準差，皮爾遜相關係數，貝葉斯定理，正態分佈，卡方分佈，假設檢驗等。
+-熟悉SQL語法：比如Mysql資料庫。
+-熟悉python資料分析常用庫：pandas、numpy、matplotlib、Seaborn，能夠利用python做資料視覺化、資料探索、資料預處理。
+-對數據資料有敏感度且有熱情。
+-熟悉機器學習相關演算法及知識, 如Boosting Algorithms, Random Forest, Neural Networks etc.
+"
+AI人工智能資料科學家 (Data Scientist),東元電機股份有限公司,"軟體設計工程師,演算法開發工程師","1.建立端對端(End-to-End) AI分析流程「數據收集-數據處理-特徵工程-模型訓練-模型推論-決策建議-人機協作-行動體驗-視覺呈現」的系統化工程與快速的POC(Proof of Concept)方案驗證。
+2.整合運用先進資訊技術/認知運算技術/物聯網技術，建立企業AI下水道工程。
+3.設計、協助及管理數據分析服務及人工智慧專案等業務之推動
+4.建立可分享重用的資料庫，並以統計、機器學習與深度學習分析內外部客戶資料，提供合適的解決方案。"
+Data Scientist,知之有限公司,"統計學研究員,演算法開發工程師","Founded in 2015 in Hong Kong, with the mission to maximize human learning ability with personalized learning, Snapask connects students to quality tutors for instant 1-on-1 learning support. Our technologies optimize students' learning experience with efficient and accurate tutor matching, content recommendation and learning data visualization. Snapask is now in 8 markets in Asia including Taiwan, Hong Kong, Singapore, Malaysia, Thailand, Indonesia, Japan and South Korea, supporting over 3 million students with over 350,000 qualified tutors from top universities.
+
+On top of offering subscriptions on tutor Q&A service, we develop topic-based academic courses with live coaching support for students going through exam-preparations in high schools and universities. We are looking for talents specialized in the data analysis field to join us, to create and redefine the next generation of education.
+
+# What you are expected to do
+- Acting as a solution provider for all data related problems.
+- Exploring actionable data insights among different data sources.
+- Presenting, translating, and distributing data results for internal stakeholders.
+- Perform a good recommendation system to make students find the courses they want easier.
+
+# Years of working experience
+3+ years data science related working experience
+
+# Requirement
+- Familiar with Python or R
+- Experience in BigData infra build up, warehouse, data processing system
+- Experience in Data Visualization software, like Tableau, Hue, etc.
+- Experience in any Machine Learning methodology
+- Experience in AWS environment"
+Data Scientist(資料科學家),李長榮化學工業股份有限公司,"資料庫管理人員,市場調查／市場分析","1. 洞察公司營銷/工廠運維的數據，並應用數據挖掘、機器/深度學習、最佳化等等技術，優化產品品質、提升生產效率減少資源的耗用、提升設備的妥善率，並找到問題的根因與最適的生產操控作業。
+2. 以智慧製造的策略發展，應用集團內各工廠的生產數據與領域專家合作，制定生產製造所產生的問題，處理相關數據以符合製程的運作，並應用相關的演算法，建立線上即時預測或分析模型，協助工廠解決生產問題的痛點。 
+3. 協助商業營銷活動的分析，開發應用相關演算法模型進行分析與預測，提升獲利與企業競爭力。
+4. 依照環境的現況，設計出最佳的解決方案(e.g. AIoT, Edge/Cloud computing)，並做視覺化呈現或告警通知給予使用者最適的業務運作協助。
+5. 管理線上模型的生命週期，研究與開發相關演算法，保持模型的預測的效用與運作效率。
+"
+Data scientist ,傑希生技有限公司,"演算法開發工程師,其他資訊專業人員","We are looking for a Data Scientist to support analyzing indoor aquaculture and system behavior in order to help create the most efficient farms that the world has ever seen. In this role, using data mining, statistical techniques, and machine learning, you will be analyzing and visualizing data to help improve operational efficiency, minimize losses, increase yield. These combined goals will give Company’s produce global reach at an accessible price, leading to increased produce consumption and raising the quality of living around the world. You will be part of a passionate and dynamic team that is developing new technology from the ground up
+
+What You'll Do
+
+-Understand data needs and construct data pipelines that address gaps and provide new information about facility processes and performance
+-Implement applications, dashboards, and statistical techniques to monitor process control tied to farm performance
+-Define correlations between process inputs & outcomes to help improve yield rate, quality, and overall process
+-Identify gaps in data to enable development of sensors, hardware, firmware and data pipelines
+-Own and drive computational modeling 
+-Systematic thinker who can balance multiple priorities and master new datasets quickly
+-Background in computational modeling and data science
+-Well versed in statistical analysis (SPC, DOE, ANOVA, regressions etc) and able to draw conclusions on the relationships between variables
+-years of using dbt or other ETL methods to provide end-users with clean, transformed data
+-years of expertise in using SQL to query messy datasets and to create data pipelines
+-years of experience in R or Python (scripting languages) etc. to analyze data
+-years of experience of creating informative & interactive data visualizations
+-Experience integrating algorithms and data analyses with applications for end-users
+-Strong documenter of maintainable code (version control, CI/CD, etc.), methods, and results
+BS / MS or Ph.D in Computer Science, Data Science, Statistics, Math or related degree with relevant experience)"
+Data Scientist / 資料科學家_10324,和碩集團_和碩聯合科技股份有限公司,"軟體設計工程師,通訊軟體工程師,韌體設計工程師","1. Translate business problems into analytical tasks and communicate results back to a business audience 
+2. Study machine learning / deep learning papers, and have the ability to implement method to real data 
+3. Collect, process and cleanse raw data from a wide variety of sources
+4. Transform and convert unstructured data set into structured data products.
+5. Identify, generate, and select modeling features from various data set
+6. Train and build machine learning models to meet business goals"
 Data Scientist - Analytics,Pinkoi_香港商果翼科技股份有限公司台灣分公司,"軟體設計工程師,其他資訊專業人員,演算法開發工程師","Data Scientist - Analytics 在 Pinkoi 將負責挖掘、研究和分析平台上所有的數據，並使用統計、機器學習、資料探勘等相關技術，幫助平台解決各種有挑戰性的量化問題。這工作可能挑戰除了針對問題挖掘資料、提出洞見、設計實驗驗證假設，也會和其他 Engineers 與 UI/UX Designers 一起協同開發。在各種專案中，讓數據帶來的價值最大化。
 
 你需要負責的工作內容：
@@ -459,115 +964,817 @@ Data Scientist - Analytics,Pinkoi_香港商果翼科技股份有限公司台灣�
 
 1. 你的個人作品 (GitHub、網站 link 或其他作品介紹資料)
 2. 分享你的挖掘、分析 data、建立 Machine Learning/AI 系統使用的技術、演算法及結果的經驗"
-㊣Sr. Data Scientist / 資料科學家㊣,滿食空股份有限公司,"其他資訊專業人員,系統分析師","｜NT$800K-1.2M｜0.0 - 3.0% equity｜Taipei City｜
-We are looking for an expert in data analytics to join our Data Intelligence Team.  
+Computer Vision Data Scientist,百威雷科技有限公司,"軟體設計工程師,演算法開發工程師","We are a fast-growing, research-driven company building AI solutions that helps corporate and factories overcome the challenges they face every day. Using novel machine learning techniques, we are revolutionizing the industry and have a track record of building things that others have ruled out as impossible. Our team is our best asset. We work with smart and talented individuals, who all enjoy a high degree of responsibility and independence in structuring their work. The team are looking for passionate data scientist who are keen to work with like-minded individuals in a rapidly evolving environment. 
+
+Role & Responsibilities
+‧ Research, design, implement and evaluate novel computer vision algorithms.
+· Work closely with sales team, data scientist team and product engineering teams to drive model implementations and new algorithms.
+‧ Deliver technical advice to our partners.
+‧ Interact with customer directly to understand the business problems and aid them in implementation of their ML solutions.
+‧ Develop innovative algorithmic tools that add value to our data products.
+‧ Developing high quality, low latency ML models.
+
+Basic Qualifications
+
+· PhD in computer vision/machine learning or related experience.
+· 3+ years of relevant experience in building production-scale system/algorithm in one of the following domains: computer vision, deep learning, or machine learning.
+· 2-3 years of modeling experience working with deep learning frameworks like Pytorch or MxNet.
+· Current hands-on experience with state-of-the-art object detection approaches (e.g. Faster RCNN, Yolov4, Yolor, CenterNet etc.)
+· Understanding of deep learning CV evaluation metrics including mAP, F_beta, PR curves, etc.
+· Team player with excellent interpersonal skills.
+
+Preferred Qualifications
+
+· Broad knowledge of fundamentals and state-of-the-art in computer vision/machine learning.
+· Experience leveraging and augmenting large code base and computer vision/machine libraries/toolkits to deliver new solutions.
+· Experience extending object detection models to multi-object, multi-label tracking
+· Experience working with motion imagery datasets (e.g. Full Motion Video/ FMV, Wide Area Motion Imagery/ WAMI) is a plus.
+· Familiarity deploying solutions to IoT/edge platforms (e.g. NVIDIA Jetson Xavier).
+· An Advantage: Experience in publishing at major computer science conferences or journals.
+· An Advantage: Experience contributing to research communities, including publishing papers at conferences.
+
+**Please attach a copy of your resume in English. 
+**欲應徵者請附英文履歷提供審查  "
+Data Scientist - Marketing,Pinkoi_香港商果翼科技股份有限公司台灣分公司,"演算法開發工程師,行銷企劃人員,市場調查／市場分析","我們是 Pinkoi 的行銷部門，負責替設計師傳遞關於設計品的故事，建構起 Pinkoi 的品牌形象。我們也擅長操作數位行銷管道，將訊息傳遞後，用數據做判斷，擴大每個流量的效益。Pinkoi 行銷部，一個理性感性兼具的團隊，現在需要數據分析的夥伴加入我們，幫助我們提升效益。你的表現會從你提供的銷售策略，創造多少營收成長來評估。
+
+你需要負責的工作內容
+
+1. 協助訂立指標，並建立報表、儀表板追蹤 KPI 表現。
+2. 規劃用戶運營計畫，擬定會員分群的行銷策略，以達成階段型成長目標。目標如：降低3. 用戶獲取成本、提高用戶留存率、提升沈睡訪客召回率。
+4. 設計 A/B testing 來驗證假設、分析實驗成效 。
+5. 熟悉統計分析模型與方法，能透過模型來解決商業問題，並提供策略提案給 Business Leader 決策執行。
+
+我們希望你有的特質
+
+1. 商業思維：具備商業敏感度，能將數字轉換為實際可落實的方案給隊友落實。
+2. 分析熱忱：對分析有高度熱忱及耐心，喜歡挖掘背後原理與原因，並樂於學習新知識。
+3. 專業能力：能用資料回答疑問/剖析使用者行為/建立產品指標、知道資料處理處理的眉角 (e.g., 處理被汙染的資料)
+4. 資料視覺化：在工作中繪製過各種圖表、能在正確的時機製作正確的視覺化，將研究轉化成洞察。
+5. 溝通能力：有耐心了解別人的想法，並能清楚表達自己意見。此職務會需要大量與數據部門、行銷部門合作，共同協助商業增長
+6. 團隊合作：具備和設計師/工程師/資料科學家合作的經驗，善於有效協助統整歸納需求、折衝各方意見找到平衡點。
+7. 主動積極：能獨自完成給予的專案，有效分配自己的工作時間
+
+應徵條件
+
+1. 統計 / 數學 / 資料科學相關科系畢業。
+2. 至少 3 年以上工作經驗， 1 年以上數據分析相關工作經驗。
+3. 能夠處理邏輯複雜的 SQL 能力。
+4. 具備基本 Python 或 R 程式能力，並有處理大量數據的經驗。
+5. 具備 Data Visualize 能力，熟悉 Python/ R library ex. plotly 或是操作型工具類 ex. Tableau, Superset, Cognos 等 BI 工具。
+6. 英文口語書寫能力佳。
+
+加分條件
+1. 具備數據工程能力、模型設計
+2. 1 年以上電商相關工作經驗
 
 
-｜ WHO WE ARE ｜
+不用想了，趕快來當個 Pinkoi 人
+如果你有信心能夠勝任這份工作，請務必於附件附上下述資料，幫助我們理解你的專業能力，若未附上很抱歉我們將不進行面試評估：）
 
-自由食間是更聰明、更便利、且更懂你的OMO智慧新零售服務。透過物聯網及人工智慧，我們要在對的時間地點裡提供對的東西給對的人；整合無人零售及電子商務提供極致的便利及最完善的服務。我們總是追求進步與改變，所以努力讓每一次的消費都能有最完美的體驗。
+1. 請告訴我們為什麼想應徵這份工作。
+2. 你分析上遇到最大的挫折，你當時的應對方式是什麼？
+3. 對於電商平台，資料科學有什麼高價值的應用？承上題，對於 Pinkoi，此運用能發想出什麼行銷策略？（請發想至少兩個點子）
 
-FREEZONE is an OMO smart retail solution provider enabling brands to start their offline and online business easily. With our technologies, much of the purchase, checkout, and payment steps associated with a retail transaction are completely automated. In the meantime, we focus on providing the right goods to the right people based on a variety of data collected by our innovative system. Our vision is to provide the world's most pleasant shopping experience.
+謝謝你用心準備並遞交申請。我們會通知合適者進行面試， 若不符合資格，將不另行通知，謝謝。"
+資深資料科學家(Senior Data Scientist)-高雄,華翰物產實業股份有限公司,"系統分析師,統計精算人員","●我們正在尋找數名資料科學家，此職位將
+1.	與領域專家結合資料面將商業問題轉化為可分析的條件以及狀態
+2.	進行數據蒐集、清理、保存並確保資料品質無暇
+3.	對資料進行分析，以提供市場開發策略建議
+4.	對市場進行系統性的宏觀分析並以資料進行相關預測
+5.	須與資料工程師共同建立資料流與開發相關API
+6.	開發相關介面與儀表板供內部使用者使用
+7.	須持續學習並精進相關技術(不只限於工程領域)
+
+●必備條件:
+1.	熟練Python以及資料處理相關技術
+2.	有訓練數值型模型的業界經驗且該模型有投入商業使用
+3.	具備git技術
+4.	具備英文溝通能力(要敢開口說)
+
+●加分項目:
+1.	具備爬蟲能力
+2.	有個人Side Project/數據競賽經驗/git ，任何可展現經驗與熱忱的作品
+
+------------------------------------------------------------------------
+
+●We are seeking several Data Scientist to 
+1.	Collaborate with domain expertise to transform business problem into analyzable states  
+2.	Scrape, clean, store and ensure the quality and consistency of data
+3.	Analyze business related data and come up with feasible strategy
+4.	Analyze the whole market from a macro and micro view and conduct necessary prediction
+5.	Collaborate with data engineer to build up reliable data pipeline and API
+6.	Develop dashboard and friendly interface for internal users
+7.	Learn and apply the related cutting edge technology if necessary
+
+●Must have:
+1.	Proficiency in Python and data manipulation skills
+2.	Familiar with not only machine learning package but also the theory of common algorithms, time series related algorithm will also be accepted
+3.	Familiar with git 
+4.	Able to communicate in English 
+
+●Nice to have:
+1.	Able to scrape data from web
+2.	Any side project or competition experience is a plus
+"
+資深資料科學家(Senior Data Scientist)-台北,華翰物產實業股份有限公司,"系統分析師,統計精算人員","●我們正在尋找數名資料科學家，此職位將
+1. 與領域專家結合資料面將商業問題轉化為可分析的條件以及狀態
+2. 進行數據蒐集、清理、保存並確保資料品質無暇
+3. 對資料進行分析，以提供市場開發策略建議
+4. 對市場進行系統性的宏觀分析並以資料進行相關預測
+5. 須與資料工程師共同建立資料流與開發相關API
+6. 開發相關介面與儀表板供內部使用者使用
+7. 須持續學習並精進相關技術(不只限於工程領域)
+
+●必備條件:
+1. 熟練Python以及資料處理相關技術
+2. 有訓練數值型模型的業界經驗且該模型有投入商業使用
+3. 具備git技術
+4. 具備英文溝通能力(要敢開口說)
+
+●加分項目:
+1. 具備爬蟲能力
+2. 有個人Side Project/數據競賽經驗/git ，任何可展現經驗與熱忱的作品
+
+------------------------------------------------------------------------
+
+●We are seeking several Data Scientist to
+1. Collaborate with domain expertise to transform business problem into analyzable states
+2. Scrape, clean, store and ensure the quality and consistency of data
+3. Analyze business related data and come up with feasible strategy
+4. Analyze the whole market from a macro and micro view and conduct necessary prediction
+5. Collaborate with data engineer to build up reliable data pipeline and API
+6. Develop dashboard and friendly interface for internal users
+7. Learn and apply the related cutting edge technology if necessary
+
+●Must have:
+1. Proficiency in Python and data manipulation skills
+2. Familiar with not only machine learning package but also the theory of common algorithms, time series related algorithm will also be accepted
+3. Familiar with git
+4. Able to communicate in English
+
+●Nice to have:
+1. Able to scrape data from web
+2. Any side project or competition experience is a plus"
+Junior and Senior Data scientist,九七科技股份有限公司,"演算法開發工程師,軟體設計工程師,其他資訊專業人員","** 應徵時請附上 Cover Letter (自薦信) **
+認真對待所開發的系統，就像自己的作品。
+重視團隊溝通與合作，互相支援提醒。
+
+工作內容:
+我們是一個專注於ML演算法的AI團隊，所有的ML演算法以及廣告都能夠直接產生效益，強力的ML算法能夠不經由人工任何判斷完全經由演算法直接決定廣告策略。
+資料科學家需要能夠維護資料系統以及推進演算法的演化來達到更好的廣告效果，此外也需要維護我們演算法所需要的資料系統，讓整個訓練的循環能夠更加穩定。
+
+如果您是Junior data scientist，您可以藉由""團隊的訓練""來達到以下 Senior data scientist 的程度與能力，一窺資料科學的高難度技術。
+如果您是Senior data scientist，這是一個可以讓您完全發揮資料科學高難度演算法的地方，歡迎您加入並且其他科學家研發出屬於您演算法的價值。
+
+Junior data scientist 必要條件(50000~65000):
+必備能力(筆試會考):
+1.維護後臺基本架構: 會需要使用Flask API, GA API, 以及DB基本表單。
+2. 使用pymsql and pandas 操作SQL
+3. DNN based method: Training DNN tips (training set, Test set)
+4. NLP or discrete data preprocessing => MLE-Seq2seq。
+必備工具: python, tensorflow2.0, muti-processing, pandas, SQL 
+Numpy and Pandas。
+
+Senior data scientist 必要條件(如果下述所有技能，都""無須訓練""可談至65000~85000):
+必備能力(筆試會考):
+1.維護現有AI演算法: MLE-seq2seq, SeqGAN, RelGAN, 強化學習演算法, NLG領域變形演算法
+2.必備工具: tensorflow2.0,muti-processing, python, NLP以及RL相關基礎知識, Flask, SQL
+3.必須能夠實作項目: MLE-SEQ2SEQ, SeqGAN, Reinforcement learning, bert-pretrained(筆試) "
+PopDaily Data Scientist  資料科學家  (技術部),數果網路股份有限公司,系統分析師,"身為 PopDaily 的資料科學家，你將負責挖掘、研究和分析 PopDaily 平台上所有的數據，幫助平台解決各種有挑戰性的問題。這個工作將會與產品經理，UI/UX設計師，以及開發團隊的工程師們一同合作，從挖掘資料開始，針對產品的優化提出各種假設，並實作功能上線驗證。
+
+基本條件 :
+1.熟悉 Python
+2. 熟悉 SQL，如 MySQL / MongoDB Query / BigQuery
+3. 熟悉 Machine Learning / Data Mining 基本知識
+4. 熟悉 Recommendation System，並有設計與實作的經驗 
+5. 熟悉 A/B Testing 的設計與驗證
+6. 熟悉第三方 tracking system，如 Mixpanel / Google Analytics / Firebase
+7. 有兩年以上經驗數據分析相關經驗 
+8. 具備良好溝通協調、問題解決與邏輯思考能力
+9. 能跨團隊合作並可獨立作業
 
 
-｜ WHAT YOU'LL BE DOING ｜
 
-- Work with business stakeholders to identify business needs, define data analysis goals, and set metrics and KPI.
-- Manage data requests from multiple functions and support stakeholders to make data-informed decisions; perform exploratory analysis to develop hypotheses and answer complex business questions
-- Design experiments and perform post-hoc analyses to inform product roadmap and drive business growth.
-- Closely partner with data engineers to develop and maintain automated dashboards, metric reports, and data visualizations to analyze and present data.
-- Collaborate within the Data Intelligence Team to strategize on upstream data models and pipelines, drive aggregate definitions and develop own solutions as needed.
+請點擊此連結投遞履歷(優先審理):  https://popdaily.teamdoor.io/s/rpLHLELD"
+Data Scientist (Fantasy Sports game),緯雲股份有限公司,"軟體設計工程師,演算法開發工程師,統計學研究員","1. Develop, iterate, and take to production machine learning models to simulate sports player's stats and solve problems.
+2. Construct models, analyses and solutions in response to a question or problem posed by a stakeholder or colleague.
+3. Contribute to the development of data science technical infrastructure and manage the data preparation process from collection through cleaning.
+4. Work with decision-makers across the company to understand their goals, identify opportunities to use data to develop new insights and improve business results.
+5. Create dashboards and data visualizations for analysis and communication."
+Data Scientist 資料科學家_數據分析師 | CBU_06_01,伊雲谷數位科技股份有限公司,其他資訊專業人員,"面對真實世界的複雜問題，運用資料科學與數據分析專業，協助客戶掌握有價值的資料並獲得洞見，
+本職務將接觸到廣泛的產業領域，包含金融業、科技業、製造業、政府機關、法人機構、上市櫃公司...等大型企業。
 
-｜ WE ARE LOOKING FOR ｜
-
-必備條件：
-- 3+ years experience in data analytics or related fields
-- Experience building dashboards with proficiency in at least one of the following tools: Tableau, Mixpanel, Power BI, ClickView, Data Studio
-- Confidence with analytical tools such as Excel and Python/R
-- Working knowledge of SQL or NoSQL
-- Amazing problem solving skills and an ability to define business problems and KPIs
-- Demonstrated track record of translating analysis results into actionable insights
-- Desire to work with intelligent individuals in a fast-paced startup environment
-- Excellent communicator - strong written and oral communication skills to present insights clearly to technical and non-technical audiences
-
-加分條件：
-- Experience in retail, e-commerce, FMCG, or related fields
-- Experience in design and analysis of A/B testing
-- Experience in event-based tracking
-- Experience in data warehousing design and implementation
-- Experience in data pipeline setup and management
-- Demonstrated ability to thrive in a fast-paced environment while managing multiple projects and tight deadlines
-
-
-｜ WHAT WE OFFER ｜
-
-We offer a competitive compensation package with equity included. Salary and job roles are all negotiable as working with top talents is always our first priority. We would love to hear from you!
+職務內容：
+1. 與客戶溝通了解客戶需求目的、想解決的問題與希望獲得的商業價值
+2. 定義數據收集與後續分析需求，建構所需要的資料處理流程並協助客戶進行數據處理(清洗、ETL、標籤、特徵提取等)
+3. 依據數據處理與分析需求，建構數據模型，視實際情況調整並優化模型與流程
+4. 進行各種數據追蹤和分析，針對商業問題提供有用數據、評估與應用在客戶環境中，並持續優化與修正。
+5. 將數據結果給予最佳的視覺化建議與呈現
+6. 引導客戶學習使用並協助客戶洞察數據，提供有效的決策支援。
+本職務需要具有以下技能：
+1. 熟悉分類分群、推薦、迴歸預測等演算法理論基礎，並有實作經驗
+2. 熟悉程式與分析應用，如 Python, R, SPSS, MATLAB, SAS 等
+3. 熟悉大數據生態系(Big Data Ecosystem)，如 Hadoop, Spark, MapReduce, Hive 等
+4. 熟悉商業智慧(BI)工具，如 Tableau, QuickView, Qlik, PowerBI, Quicksight 等
 
 "
-Data Scientist,美商訊能集思智能科技股份有限公司台灣分公司,演算法開發工程師,"Do you yearn to work with a group of top Software Engineers? Do you want to work on an exciting and promising future vision in the field of Artificial Intelligence and Machine Learning? Synergies is transforming and guiding how businesses make decisions via big data algorithms and analysis. We are an engineering-centric organization and we believe only top engineers can take us there. Join us and transform ourselves and businesses together.
+Data Scientist/Data Engineer/DataOps,香港商顯通香港科技有限公司台灣分公司,"其他資訊專業人員,軟體設計工程師,演算法開發工程師","1. 生產數據分析並歸納可能原因
+2. 根據失效分析(FA)結果做出資料模型
+3. 設計並維護資料處理架構及終端工具
+4. 歸納晶片演算法至終端產品品質的關係
 
-您想與一群頂尖的軟體工程師共事嗎？ 您是否憧憬在人工智能和機器學習領域，Synergies擁有一群專業且熱忱的頂尖技術人員，所開發的產品透過大數據算法與分析，引領企業智能轉型，幫助企業加快決策。誠摯歡迎您的加入，開展令人興奮和充滿希望的願景，與Synergies一起改變世界! 
+Prerequisites:
+- Hands-on experience building end-to-end data pipelines and/or production models.
 
-[職務內容]
-主要負責產品開發，與工程師的密切合作，確保產品在數據分析的方向及功能的設計，讓非數據分析背景的人也能上手。
+Plus if:
+- Excellent communications skills; ability to synthesize, simplify, and explain problems and methodologies to different audiences including executives."
+F16 Data Science- Data Scientist,台灣美光(台灣美光晶圓科技股份有限公司/台灣美光記憶體股份有限公司/美商美光亞太科技股份有限公司台灣分公司),"軟體設計工程師,演算法開發工程師,其他資訊專業人員","Job Description
+As a Data Scientist at Micron Technology Inc., you will employ techniques and theories drawn from many fields within the broad areas of mathematics, statistics, and information technology, including signal processing, probability models, machine learning, statistical learning, computer programming, data engineering, pattern recognition and learning, visualization, uncertainty modeling, Big Data, and high performance computing to uncover patterns in data from which predictive models, actionable insights, and solutions can be developed. You will interact with product, process, operations and/or service teams to identify questions and issues for data analysis and experiments. In this position, you will be expected to develop and code software programs, algorithms and/or automated processes to cleanse, integrate and evaluate large datasets from multiple disparate sources. You will also interpret and communicate insights and findings from analysis and experiments to product, service, and business managers.
 
-[責任]
--開發實用的數據分析方法，將複雜的問題轉換為易於使用的標準化功能。
--將統計理論和方法轉換為標準化功能，成為我們的旗艦產品JarviX的部份。
--從多個來源挖掘數據，然後以一種易於一般使用者閱讀和理解的方式在平台上實現。
--創建有意義的特徵工程方法及模組，並將其應用於我們的平台。
--掌握對數據分析和預測方法的趨勢和可能方式。
--建立文件，使JarviX用戶可以簡易地了解數據分析過程的步驟。
--與工程師及團隊協作，並對系統提出，數據分析方面的修改和精進。
--從數據中產出洞察和見解，找出趨勢和其它理解該數據的方法。
--將數據解釋和分析的方法，轉換成在平台上豐富的交互式可視化的功能。
--定義並實施ETL的最佳邏輯，以確保JarviX平台上具有最佳的可擴展性。
+Responsibilities and Tasks
+Align to, Understand, and Prioritize Analytic Goals to Address Business Opportunities and Value
 
-[要求]
--博士畢業 (統計或資訊相關科系)
--二年以上資料結構，資料探勘，資料分析實務經驗，具基礎程式能力及CRM分析經驗。
--瞭解統計學相關知識：百分位數，箱線圖，標準差，皮爾遜相關係數，貝葉斯定理，正態分佈，卡方分佈，假設檢驗等。
--熟悉SQL語法：比如Mysql資料庫。
--熟悉python資料分析常用庫：pandas、numpy、matplotlib、Seaborn，能夠利用python做資料視覺化、資料探索、資料預處理。
--對數據資料有敏感度且有熱情。
--熟悉機器學習相關演算法及知識, 如Boosting Algorithms, Random Forest, Neural Networks etc.
+Maintain an intimate understanding of company and department strategy
+Understand the business objectives in order to develop or establish success criteria metrics
+Translate business problems into one or more data science projects/solutions
+Lead Efforts to Identify Signals in Data that Address Use Cases
+
+Understand business processes (data sources and meaning)
+Manage and optimize data discovery and cleansing
+Understand and collect relevant data
+Identify new data sources in the network that will create new insights to business needs
+Explore relevant data through visualization and statistical methods
+Collect, Organize, and Prepare Data for Analysis
+
+Work with various volumes of data from multiple disparate sources and perform data analysis and mining to generate solutions to business problems
+Ensure processes taken to maintain data integrity
+Understand available data and what data is relevant
+Collaborate with data architects (IS engineers, BI engineers, DBAs, etc.) to ensure that data needed is available
+Develop and automate ETL jobs for various volumes of data
+Uncover Patterns in Data, Develop Models, and Evaluate Validity of Solutions
+
+Develop expertise in data mining and analytic methods
+Determine statistical validity and significance (pick out signals from noise)
+Identify and apply appropriate analytical models
+Evaluate results using statistical methods and improve the model where appropriate
+Develop predictive models
+Deploy Data Science Models into Business Processes
+
+Present findings and deliver recommendations using effective presentation and data visualization techniques
+Collaborate with software engineers to deploy data science solutions into production applications
+Ensure that the models are easy to support and maintain
+Regularly review deployed models and monitor for continual improvement
+Validate that the business value has been met"
+AI Data Scientist_Xizhi/Linkou,GARMIN_台灣國際航電股份有限公司,"軟體設計工程師,演算法開發工程師","【工作內容】
+針對實務製造問題發展工業4.0解決方案，運用深度學習、人工智慧、機器學習、模擬與最佳化等模型於 Garmin 智慧製造應用的開發，依據生產目標定義問題、收集資料、分析以及開發演算法以提升整體生產效益，其涵蓋的應用領域包括： 
+1. 產品良率優化 – 如產品瑕疵檢測，應用深度學習架構與可解釋AI於自動瑕疵檢測，取代傳統人工搜尋方式。
+2. 設備利用率提升 – 如設備異常分析，應用時間序列資料建立設備異常預測模型並推估的最佳保養時間。
+3. 生產效率提升 – 使用最佳化模型對生產排程進行優化與求解運輸派送問題。
+4. 能源效率優化 – 如工廠節能最佳化，透過環境感測器取得資料並分析，智能化調整參數減少能源浪費。
+
+【必要條件】
+1. 對資料分析充滿熱情並具備程式開發之熱忱與積極性，善於溝通協調與團隊合作精神並能獨立解決問題。
+2. 熟悉Python, R, Scala, C/C++ 等程式語言，並具備使用其語言開發實際分析經驗。
+3. 具備獨立研發能力，閱讀理解期刊論文並開法及修改演算法。
+4. 具備深度學習、機器學習、統計分析、資料探勘（machine learning, deep learning, statistical modeling, data mining）之研究背景或實務經驗，對原理有扎實的理解，能確實了解各演算法在應用上的優劣。
+5. 具備應用以下其中任一種深度學習架構（如CNN/ LSTM/ GAN）在分析資料、影像、聲音上的經驗。
+6. 具備MS SQL, PL/SQL, Mongo, Hive等資料庫串接經驗，及熟悉資料視覺化實作（如Tableau）。"
+Python programmer/data scientist for quantitative trading,中塑油品股份有限公司,"演算法開發工程師,金融交易員,統計精算人員","Python programmer/data scientist for quantitative trading
+Seeking junior multi-asset strategist/developer/data scientist for automated trading strategies development. 
+You will directly contribute to the investment process by building constructive tools & models, monitoring markets and providing trade ideas.
 "
-(LINE Bank) Data Scientist_資料科學家,LINE Bank_連線商業銀行股份有限公司,"演算法開發工程師,軟體設計工程師","[Responsibilities] 
--透過數據分析及機器學習進行數據探索及機會發現。 
--透過數據分析及機器學習解決關鍵問題，並提供策略建議。 
--負責建立AI大數據系統專案及協助業務流程導入。
--Data exploration and opportunity discovery through data analysis and machine learning.
--Through data analysis and machine learning to solve key problems, and provide strategic suggestions.
--Responsible for establishing AI big data system project and assisting in the introduction of business processes."
-Data scientist ,傑希生技有限公司,"演算法開發工程師,其他資訊專業人員","We are looking for a Data Scientist to support analyzing indoor aquaculture and system behavior in order to help create the most efficient farms that the world has ever seen. In this role, using data mining, statistical techniques, and machine learning, you will be analyzing and visualizing data to help improve operational efficiency, minimize losses, increase yield. These combined goals will give Company’s produce global reach at an accessible price, leading to increased produce consumption and raising the quality of living around the world. You will be part of a passionate and dynamic team that is developing new technology from the ground up
+Quantitative Trader/ Data Scientist/ ML Engineer,泰錸科技有限公司,"軟體設計工程師,Internet程式設計師,演算法開發工程師","Timeline Technologies was founded in 2016 as an algorithmic research and trading firm in Taipei, Taiwan. We later expanded our operations to Shenzhen, China. We are actively trading on several markets in Asia and looking for Data Scientist experts to join our Quantitative Research team. At Timeline Technologies, our Quantitative Researchers build signals to identify and capitalize on trading opportunities. As a key member of our research team, you will collaborate closely with other researchers and traders.
 
-What You'll Do
+In this role you will apply your machine learning knowledge to the research, testing, deployment, improvement, and monitoring of our proprietary trading systems across multiple markets and products. You will help build predictive features or models that work with real-time data in a high frequency trading environment. Your work will impact all aspects of the trade pipeline from how we capture market-data to how we do risk management.
 
--Understand data needs and construct data pipelines that address gaps and provide new information about facility processes and performance
--Implement applications, dashboards, and statistical techniques to monitor process control tied to farm performance
--Define correlations between process inputs & outcomes to help improve yield rate, quality, and overall process
--Identify gaps in data to enable development of sensors, hardware, firmware and data pipelines
--Own and drive computational modeling 
--Systematic thinker who can balance multiple priorities and master new datasets quickly
--Background in computational modeling and data science
--Well versed in statistical analysis (SPC, DOE, ANOVA, regressions etc) and able to draw conclusions on the relationships between variables
--years of using dbt or other ETL methods to provide end-users with clean, transformed data
--years of expertise in using SQL to query messy datasets and to create data pipelines
--years of experience in R or Python (scripting languages) etc. to analyze data
--years of experience of creating informative & interactive data visualizations
--Experience integrating algorithms and data analyses with applications for end-users
--Strong documenter of maintainable code (version control, CI/CD, etc.), methods, and results
-BS / MS or Ph.D in Computer Science, Data Science, Statistics, Math or related degree with relevant experience)"
-Data Scientist,德義資訊股份有限公司,"Internet程式設計師,其他資訊專業人員,系統分析師","Requirements
-Knowledge and experiences of at least one programming language of Java, Python, Spark, PySpark, Hadoop.
-Experiences of GCP: DataProc, Vertex AI Platform, TensorFlow, DataFlow, Piper Framework
-Good analytical and problem-solving skills.
-Quick learner of state-of-the-arts data science technologies and algorithms
-Excellent teamwork, knowledge sharing and communication skills
-Linux shell commands and hypervisors, such as VMWare, KVM, or Xen is a plus
-Knowledge of Docker technologies is a plus
-CS related disciplines is a plus."
-"資料科學家 Data Scientist-數據科技(數數發中心, DDT)",國泰金控_國泰金融控股股份有限公司,"統計精算人員,演算法開發工程師,其他資訊專業人員","1. 機器學習、深度學習或統計分析模型的實作開發，包含數據清洗、特徵工程及探索、模型建置與調參
-2. 配合數據技術發展目標，研究與開發可落地實用之新興數據技術，並協助提升金控整體數據技術運用能力
+This work will be challenging, fast-paced, and competitive. You will have the opportunity to work with smart people in a creative but fun environment. A financial background is not necessary, rather we are looking for people who have successfully applied machine-learning methods to solving real-world problems.
+"
+Data Scientist,安布思沛行銷股份有限公司,"系統分析師,市場調查／市場分析","1. Define quantitative measurement for qualitative goals
+2. Drive complex analytics projects from loosely defined questions to actionable insight.
+3. Utilizing statistical or machine learning methods to perform predictive analytics.
+4. Utilizing existing technologies to explain predictive analytics results in production environment.
+5. Work closely with cross-functional teams of analysts, product owners, marketers, designers, and others to identify opportunities for leveraging data to drive business solutions"
+Data Scientist Engineer,雲馥數位股份有限公司,"系統分析師,其他資訊專業人員","To be successful in this role you will need to, Be familiar with Data Engineering techniques to gathers, prepare, cleanse, and transforms client data for analysis and AI automation, including automating data pipelines
 
-(本職務配合公司數據團隊布局策略，若有必要時需至子公司輪調或任務支援)"
+Essential Functions
+•	Demonstrate strong business acumen and ability to understand business problems, formulate hypotheses and test conclusions to influence solution design
+•	Leverage a variety of structured and unstructured data sources, analytics, AI tools, and programming languages to derive meaningful data insights (e.g., Python, R, Spark, TensorFlow, Jupyter, etc.)
+
+
+
+
+"
+49327_Research Scientist- (Numerical) Data Scientist (Hsinchu),台灣康寧顯示玻璃股份有限公司,"演算法開發工程師,軟體設計工程師,系統分析師","Corning is one of the world’s leading innovators in materials science. For more than 160 years, Corning has applied its unparalleled expertise in specialty glass, ceramics, and optical physics to develop products that have created new industries and transformed people’s lives.
+Corning succeeds through sustained investment in R&D, a unique combination of material and process innovation, and close collaboration with customers to solve tough technology challenges.
+Corning’s Display Technologies segment manufactures glass substrates for active matrix liquid crystal displays (“LCDs”) that are used primarily in LCD televisions, notebook computers and flat panel desktop monitors.
+
+Scope of Position:
+We are offering a unique job opportunity to conduct cutting-edge research in an exciting field of Artificial Intelligence (AI). This job provides a wide range of opportunities to invent and to bring fruition to new life-changing technologies with Machine Learning/Deep Learning (ML/DL) capability.
+
+The successful candidate will
+• Work from the Corning Research Center Taiwan located inside ITRI (Industrial Technology Research Institute) in Hsinchu and closely interact with other Corning R&D teams around the globe
+• Provide technical leadership for research projects and activities focusing on ML/DL to support Corning RD&E
+• Guide efforts for developing novel numerical models for Corning manufacturing systems of different Corning businesses
+• Play a leading role in creation of relevant IP to protect key inventions related to novel solutions
+
+Day to Day Responsibilities:
+• Propose and lead research activities involving ML/DL evaluation and customization for different applications across Corning businesses; be responsible to understand problems from the customer's point of view and translate into data analytics solution and work plans
+• Collaborate with internal customers across Corning organizations, design and perform model validation and testing, communicate technical analysis and results to internal customers
+• Share and contribute Corning’s data analytics community of practice in developing the capabilities and promoting areas of applications
+• Around 15% global travel is expected"
+[For foreigner PhD only] Data Scientist,Linker Networks Inc._美商寶蘊凌科網路科技有限公司台灣分公司,"軟體設計工程師,演算法開發工程師,其他資訊專業人員","Responsibilities :
+
+- Developing deep learning solutions and performance evaluation frameworks according to business project at production-level
+- Partner with engineers and product managers to build the right application for business need
+- Researching on latest DL/ML algorithms or frameworks to find opportunities for growth and efficiency for the data science team
+- Design and analyze experiments; communicate results and launch decisions
+
+
+Qualifications:
+
+- Ph.D. in Computer Science, Engineering, Statistics, Operations Research, Mathematics, or other quantitative fields are preferred
+- Solid understanding of deep learning & machine learning
+- Familiar with Python
+
+Experienced in cutting edge deep learning models and frameworks PyTorch, Tensorflow, etc.
+- Willingness to collaborate and communicate with others to solve a problem
+- Experience of working in a startup is a plus
+
+
+Nice to have:
+
+- Familiar with CUDA programming, and distributed computing.
+- Experience in one of the following topics 3D DL (Point Cloud / Voxels / RGB-D etc.), 3D image geometry, 6D pose estimation."
+MBU Data Scientist,美商昂圖科技股份有限公司台灣分公司,"韌體設計工程師,通訊軟體工程師,Internet程式設計師","Roles and Responsibilities:  
+•	Design, develop, implement and monitor scalable machine learning solutions 
+•	Interface with application scientists and marketing to understand customer needs
+•	Work in a team or individually to develop new or improved methods and algorithms
+•	Implement solutions with consideration for software maintainability and resilience  
+•	Solve problems exposed during testing or which arise in connection with new use cases
+•	Cooperate and share information with other algorithms, applications, and software developers
+•	Troubleshoot and follow up escalation issues working closely with both local team and HQ development team.
+•	Domestic and International travel when needed.
+
+
+Preferred Education and Experience: 
+•	MS/PhD in Physics or another scientific discipline
+•	Understanding of core Machine Learning principles
+•	2+ years of experience using machine learning techniques in data analysis
+•	2+ years of experience coding professionally in C++/Python
+•	Experience with TensorFlow, PyTorch, Pandas and/or Scikit-learn
+•	Experience with semiconductor metrology is a plus
+•	Good verbal and written communication skills
+•	Ability to work well independently as well as in a team environment
+"
+"資料科學研究員 Research Data Scientist, Vapour",霖園關係企業_神坊資訊股份有限公司,"演算法開發工程師,統計精算人員,其他資訊專業人員","-----------【關於團隊】------------
+Vapour Team是一個專注於開發頂尖資料科學產品的新團隊。即將從無到有的發展出屬於Vapour的產品。我們理念是利用資料科學來萃取知識，期望可以解放人類勞動力，讓資料科學跟蒸氣一樣驅動下次的工業革命。目前團隊正在尋找聰明且對資料科學有高度熱情的Research Data Scientist，藉由你的加入，讓我們共同研究開發的資料科學演算法加入到產品上，真實運轉在商業世界中。 
+
+-----------【工作內容】------------
+當你加入Vapour，將會面對到三大挑戰：
+1. 在獨立或團隊的狀況下，研究與應用機器學習及深度學習相關資料科學理論
+2. 參與團隊共同的資料科學產品開發工作，將你的研究結果與開發結合，實際的運用在商業世界中
+3. 負責未有解答的任務，利用既有或研發新理論來解決
+
+-----------【必要條件】------------
+-熟悉機器學習、深度學習及統計學
+-熟悉在python下處理資料科學相關工作
+
+-----------【加分條件】------------
+-熟悉 Generative Adversarial Network
+-熟悉 Causal and Effect Analysis
+-學術論文撰寫及發表經驗
+"
+SA20268 Data Scientist,華碩電腦股份有限公司,市場調查／市場分析,"1. Identify valuable data sources and automate collection processes
+2. Undertake preprocessing of structured and unstructured data
+3. Analyze large amounts of information to discover trends and patterns
+4. Build predictive models and machine-learning algorithms
+5. Combine models through ensemble modeling
+6. Present information using data visualization techniques
+7. Propose solutions and strategies to business challenges
+8. Collaborate with engineering and product development teams 
+9. Selecting features, building and optimizing classifiers using machine learning techniques
+10. Data mining using state-of-the-art methods
+11. Extending company’s data with third party sources of information when needed
+12. Enhancing data collection procedures to include information that is relevant for building analytic systems
+13. Processing, cleansing, and verifying the integrity of data used for analysis
+14. Doing ad-hoc analysis and presenting results in a clear manner"
+Data Scientist(Martech)- 工作地點: 內湖瑞光路,Advantech_研華股份有限公司,"演算法開發工程師,軟體設計工程師,統計學研究員","<About the job>：
+As the data scientist, you'll join the AI/Big Data Analytics projects related to sales & marketing topics to build the model or algorithm to empower data-driven sales & marketing in the B2B scenario and realize the true value in the global market.
+
+From various data collection to deep analytics, we'll build the insights pipeline, a trusted and integrated source for data and insights that empower our business campaign to improve sales and marketing effectiveness. 
+
+The sales & marketing AI/Analytics projects will employ AI/Analytics Technology(AT) and Data Technology(DT) to build an end-to-end platform for driving business value from data insights. We are seeking data scientists with a passion for building diverse AI/Analytics models in these projects to join us.
+
+<Job Description>：
+．Executing big data analysis and predictive analytics project includes feature engineering, model building, algorithm development, etc. 
+．Analytics application domain like customer data analytics, data-driven marketing, sales & marketing performance analysis. 
+．Works closely with a team of data engineers, data platform architects, web developers, system programmers, etc.
+
+<Skills>：
+．Experience with any one of Machine Learning or Statistical Modeling or Deep Learning or Simulation.
+．Familiarity with programming languages like Python or R, or Java. (Good programming skills in Python is a plus).
+．Advanced ability to perform Exploratory Data Analysis and working knowledge of statistics.
+．Ability to visualize data in the most effective way possible for a given project.
+．Ability to visualize models and results, and debug and troubleshoot code and models.
+．Knowledge of the statistical algorithms/machine learning/deep learning algorithms typically used in Marketing Analytics and Sales Analytics.
+
+<Preferred Qualifications>：
+．2 years+ of industry experience in Data Science with a focus on Statistical modeling, Machine learning, Forecasting and Optimization.
+．Ph.D. degree/Ph.D. Candidate would be preferred.
+．Knowledge of Big Data related technologies such as Spark/Spark MLlib.
+．Knowledge of Deep Learning Framework such as TensorFlow/Caffe. (additional)
+
+ <Requirements>：
+．2+ years of professional experience with a degree of Ph.D. /Ph.D. Candidate or 4+ years of working experience with a degree of master 
+．Major in Computer Science/Information Engineering/Information Management/Statistic/Applied Mathematics or related fields."
+Senior Researcher(Data Scientist),日新軟體股份有限公司,"統計學研究員,數學研究員","Job Description:
+- Conduct data science techniques to solve business problem and fulfill clients' needs.
+- Analyze and visualize data to deliver insights to drive business optimization.
+- Cowork with data engineer to design data pipeline and infrastructure.
+- Research and study new methods to improve current data science strategy.
+
+"
+知名外商遊戲電競公司_Data Scientist,新加坡商立福人事顧問有限公司台灣分公司,"軟體設計工程師,演算法開發工程師","- Research and develop state of the art recommendation algorithms to effectively serve personalised video content to our users
+- Research and develop various methods for feature extraction like video, audio and natural language processing
+- Build highly performant and highly available services at scale
+- Build highly maintainable systems that can evolve with changing requirements and new markets
+- Communicate with various teams and possess a deep understanding of the incoming data streams and pipelines
+- Keep up to date in industry best practices in recommendation algorithms, video, audio and natural language processing
+
+
+"
+RD20411 Data Scientist(AI),華碩電腦股份有限公司,"軟體設計工程師,其他資訊專業人員,統計學研究員","1.	Experience using statistical computer languages (R, Python, SQL, etc.) to manipulate data and draw insights from large data sets.
+2.	Master data analysis and other data science technologies to understand data.
+3.	Knowledge of a variety of statistical and machine learning techniques (clustering, decision tree learning, artificial neural networks, etc.) and select AI/ML technologies to solve problems.
+4.	Strong problem solving skills with an emphasis on product development.
+5.	Cooperate with other departments to effectively use internal/external big data.
+6.	Experience working with and creating data architectures.
+7.	Excellent written and verbal communication skills for coordinating across teams.
+8.	Aggressively attend training courses, learn state of the art technologies and study top papers."
+【MI】Data Scientist,現觀科技股份有限公司,軟體設計工程師,"Design and tuning ML and mathematical models 
+Model implementation 
+Model performance analysis and issue inspection 
+Research on ML in advertisement field 
+Language: technical discussion in Chinese or English  
+"
+美商招募: Data Scientist,Morgan Philips Hong Kong Limited Taiwan Branch_香港商博禹國際顧問有限公司台灣分公司,"其他資訊專業人員,軟體設計工程師,電子商務技術主管","Responsibilities:
+1. Discovering topics of conversation across billions of social media posts.
+2. Identifying and tracking trends in social media, news and other consumer and market data.
+3. Building networks and knowledge graphs to enable user-driven insight discovery.
+4. Prototype network analyses, working with AI team members and PM to identify business value.
+5. Identify and refine methodologies for clustering and trend detection.
+6. Develop scalable graph analyses of social media, news and other consumer and market data.
+
+
+Note: Offer flexible work from home options"
+資料科學工程師,台灣立訊精密有限公司,"演算法開發工程師,軟體設計工程師,統計學研究員","•執行需求訪談、收集單位業務問題，並轉化為可分析的條件及狀態
+•規劃模型建置以判斷使用者行為、找出關鍵誘發因子
+•將業務單位需求或提案轉化為預測分析的建模專案，監控及優化模型成效
+•透過場景發想，設計模型與演算法
+•撰寫資料模型、資料應用解決方案設計等文件
+•評估及發展各種AI解決方案，並轉化成為微服務提供前台使用
+•熱衷於學習與系統交付
+•其他主管交辦事項
+"
+Computer Vision Data Scientist,怡良電機有限公司,"系統分析師,其他工程研發主管,軟體設計工程師","We are a fast-growing, research-driven AI Department building AI-Robotic solutions that helps corporate and factories overcome the challenges they face every day. Using novel machine learning techniques, we are revolutionizing the industry and have a track record of building things that others have ruled out as impossible. Our team is our best asset. We work with smart and talented individuals, who all enjoy a high degree of responsibility and independence in structuring their work. 
+The team are looking for passionate Computer Vision - Data Scientist who are keen to work with like-minded individuals in a rapidly evolving environment. Role & Responsibilities ‧ Research, design, implement and evaluate novel computer vision algorithms to control Robot Arm. 
+
+Job description
+1.Work closely with Robot team, Mechanical team to handle challenging project. 
+2.Deliver technical advice to our partners. 
+3.Develop innovative algorithmic tools that add value to our data products. 
+4.Developing high quality, low latency ML models.
+"
+Data Scientist_高雄_10408,緯創資通股份有限公司,"軟體設計工程師,系統分析師,統計學研究員","1.從事資料或影像分析相關工作內容：資料清理、特徵工程、資料視覺化及模型建立
+2.使用統計、機器學習、深度學習等演算法進行建模
+3.協助定義商業問題以及方法論，定義假說以及指標，調整設計數據模型 
+4.資料分析專案管理 
+5.負責研發專案之提案/執行
+6.進行醫療影像處理、辨識及標記相關演算法開發"
+【2022研發替代役暨預聘】AI Data Scientist / AI Engineer_Delta Research Center(台北),台達電子工業股份有限公司 _DELTA ELECTRONICS INC.,"演算法開發工程師,軟體設計工程師","大數據分析已成為企業競爭力的重要關鍵之一，其中人工智慧(Artificial Intelligence)被視為是翻轉產業的革命型技術。台達電子為了加速產業界導入AI應用，創造智慧化的加值服務，整合AI相關技術與培訓資源，因而成立AI創新中心(AI Center of Excellence)。 
+因應瞬息萬變的商業環境，共享與協作才能快速創新，這是AI創新中心在資源及服務上的定位，台達將透過此中心的資源來培訓人才並與各事業單位合作，落實AI技術於各式服務。
+
+本職缺主要工作內容:
+1.	以統計、訊號處理、機器學習與深度學習等技術，透過內外部客戶建立合適的分析診斷解決方案
+2.	研究與開發人工智慧之演算法、應用和服務
+3.	設計、協助及管理資料分析及最佳化專案、培訓等業務推動
+4.	參與智慧製造、智慧生活、智慧企業等產業轉型專案，並設計開發分析流程(含資料採集、邊緣運算分流、演算法選用等)。
+
+你/妳將會應用資料分析技術於以下兩大類別問題
+1.	Video & Image Processing and Analytics
+	缺陷檢測
+	缺陷分類
+2.	Time Series Analysis
+	產品品質診斷
+	機台預測性維護(predictive maintenance)
+	傳感器訊號融合分析
+	訊號降噪/濾波/萃取等演算法開發
+"
+Data Scientist - Machine Learning (可視訊面試及彈性WFH),美商網基股份有限公司台灣分公司,"軟體設計工程師,演算法開發工程師,Internet程式設計師","NetBase Quid is searching for a talented and passionate Data Scientist to join the Artificial Intelligence R&D team. The mission of the AI R&D team is to drive innovation in Data Science, Natural Language Processing, and Computer Vision to surface insights from massive amounts of social media, survey data, news and industry databases. We are delivering on the promise of AI-assisted analytics, earning a position as a leader in the Global Social Listening industry sector 3 times in a row (2016, 2018 & 2020) in the Forrester Wave™ Report.
+
+In this Data Scientist role, you will work closely with Product Management to tackle problems in content discovery, text mining and data analytics with projects that involve:
+
+* Identifying and tracking trends in social media, news and other consumer and market data.
+* Enabling user-driven customizations, e.g., with transfer learning.
+* Correlating natural language data with business metrics.
+* Classifying social media content to enable customers to discover insights.
+
+You will be part of a diverse but cohesive group with complimentary skills that values continuous growth and learning. We support conference attendance and ongoing education, believing that our success depends on the career development of our team members. We also believe that people do their best work when they have a realistic work/life balance. To that end we offer flexible work from home options, generous paid parental leave and regular sabbaticals.
+
+NetBase Quid is committed to creating a diverse environment and is proud to be an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, gender, gender identity or expression, sexual orientation, national origin, genetics, disability, age, or veteran status.
+
+**Responsibilities:**
+* Prototype ideas, working with PM and other AI team members to iterate and identify business value.
+* Train and test supervised and unsupervised models for identified tasks, anywhere from logistic regression to neural networks and deep learning, or clustering methods.
+* Design and build scalable machine learning solutions.
+
+**Requirements:**
+* At least three years of software industry experience owning and driving Data Science or NLP projects.
+* Experience in machine learning techniques applied to NLP, data mining and content discovery.
+* Experience writing production quality code in Python or Java.
+* Experience with big data ecosystems like Hadoop/Spark.
+* Master’s degree in a relevant field (Computational Linguistics, Computer Science, NLP, etc.)
+
+**Nice To Haves:**
+* Understanding of deep learning algorithms and workflows.
+* Familiarity with technologies like Tensorflow, SparkMLlib, and Scikit-learn.
+* Experience with social media data."
+Data Architect/ Data Scientist || Nityo Infotech || Taiwan Location,台灣利優資訊科技有限公司,"軟體設計工程師,資料庫管理人員,軟體專案主管","Well Known Tech Giant ||  Data Architect/ Data Scientist/ Test Lead || Taipei city Southport District 
+
+Responsibilities:
+ 1. Evaluate business needs and objectives 
+2. Identify opportunities for data acquisition 
+3. Leverage structured and unstructured data to solve both tactical and strategic business problems
+ 4. Build data pipelines and data processing from best practices 
+5. Build Data modeling and design by established and emerging data technologies 
+6. Develop machine learning and deep learning models to create intelligent software applications in business and engineering 
+7. Develop pattern recognition algorithms by identifying and integrating internal and external sources of information using analytical tools and techniques. 
+8. Perform complex data manipulation and analytics 
+
+Qualifications: 
+1. Ph.D or Master's Degree in Computer Science, Mathematics, Computational Linguistics, Operations Research, or related field required. 
+2. 12+ years of relevant experience with a proven track record of leveraging analytics and large amounts of data to drive significant business impact. 
+3. Passion for learning and innovating new methodologies in the intersection of applied math, computer science, and statistics. Proficiency in translating business problems into concrete mathematical framework. Strong problem-solving skills. 
+4. Expertise developing experimental and analytic plans for data modeling processes, use of strong baselines, and the ability to accurately determine cause and effect relationships. 
+5. Expertise in common data structures and ability to write efficient code in at least one programming language (preferably Python, Scala, C#, or C++). 
+6. Proficiency in SQL and at least one common data analysis language such as Python, R, Matlab or SAS (Python are preferred). 
+7. Experience with cloud analytics platforms such as Microsoft Azure/Amazon AWS/Google Cloud Platform.
+ 8. Experience with distributed systems and query languages like Spark/Hive/Pig and/or general map reduce computing is a plus. 
+
+Where to go to work : Taipei city, Southport District 
+Management Responsibilities : No Administrative Responsibilities
+Travel abroad : No need to travel
+Working hours : day shift
+leave system: In accordance with the company's regulations
+Welfare System: - Festival Bonus/Gift - Birthday Gift - Referral Bonus - Employee Engagement (Outing, Annual Party...) - Annual Checkup - Monthly & Quarterly Awards - Overseas Job Opportunities/ International Assignments
+
+"
+Data Analyst/ Scientist,台灣杜邦股份有限公司,"資料庫管理人員,統計學研究員,軟體設計工程師"," About DuPont Electronics & Industrial
+
+Our industry-leading innovations, deep materials science expertise, and best-in-class manufacturing make next-generation technology a reality for our customers. 
+We’re pursuing new technologies and performance materials that enable your designs to be smaller, more complex, more reliable, and more powerful than you could ever imagine. DuPont is a technology leader, serving the semiconductor, circuit board, industrial, display, digital and flexographic printing, healthcare, aerospace, industrial and transportation industries. Every day, we’re solving our customers’ biggest challenges and are honored to be their partner of choice.  
+Learn more about our Featured solutions here: https://www.dupont.com/about/our-businesses.html
+
+DuPont is seeking a motivated data analyst/scientist for a full-time employee opportunity at HsinChu Site. This role will lead the efforts of the Data Science/Digital Transformation team at this location. The person in this role will need to be able to engage in various Data Science and data analytics projects, in order to support new product development in electronics industry.  
+
+Job Responsibilities
+•	Data mining using statistical methods and machine learning to discover the information hidden in vast amounts of data.
+•	Processing, cleansing, and verifying the integrity of data used for analysis.
+•	Build high quality machine learning prediction models/systems for various business applications.
+•	Conduct ad-hoc analysis and presenting results in a clear manner.
+•	Demonstrated experience in handling large data sets and relational databases.
+•	Assist with coordination with technology vendors and team members. 
+•	Interface with engineering and innovation teams to support digital and data initiatives.
+•	Identify opportunities to apply data analytics in ways that will benefit the Site and execute those.
+•	Work with formulation development scientists and chemists to accelerate new product development.
+"
+"Data Scientist(IT, 內湖瑞光路)",Advantech_研華股份有限公司,"系統分析師,Internet程式設計師,MIS程式設計師","1. Apply machine learning algorithms with Python, R, or any other popular programming language to achieve business goal, especially on supply chain demand forecasting and product price forecasting.
+2. Ability to perform Exploratory Data Analysis and working knowledge of statistics.
+3. Collect, extract, cleanse, aggregate internal and external data in order to feed to machine learning for training models.
+4. Knowledge of the Time Series Analysis and Forecasting would be preferred.
+5. Experience with any one of AI cloud service would be preferred.
+6. Collaborate with cross function team including IT and non-IT departments.
+"
+資料科學家_高雄/桃園,鴻海精密工業股份有限公司,"演算法開發工程師,軟體設計工程師","Job Summary:
+    The Statistician/Data Scientist will be responsible for all advanced statistical methods utilized for improving product quality, production yield, and factory effectiveness as well as finding the root-causes, along with other consulting services such as customer targeting and lead scoring in support of sales and marketing activities worldwide.
+
+Key Responsibilities:
+• Design, implement, and refine advanced statistical/Machine Learning models to support product quality improvement, increasing yield and factory effectiveness.
+• Cultivate strong relationships with production line engineers, IT, and other key stakeholders to ensure alignment of modeling initiatives with company objectives and to identify new hypotheses for model improvements.
+• Scale out modeling capacity by driving infrastructure improvements such as automation of data preparations, model training, implementation, and optimization.
+• Support integration of models into tools for use by product engineers and business analysts.
+• Engage with customers to develop and customized data analytics solutions to address special needs.
+• Address ad hoc queries from management and present actionable recommendations in a clear, concise, and convincing manner.
+• Communicate the application and benefits of using various predictive modeling techniques to improve decision-making to customers and stakeholders.
+• Collaborate effectively with team members, whether leading projects or supporting initiatives led by others. 
+• Provide direction, training, and guidance to less experienced team members."
+BI 遊戲數據分析工程師(Data Scientist),慧邦科技股份有限公司,"Internet程式設計師,軟體設計工程師,資料庫管理人員","【職務說明】
+1. 數據後台功能開發。
+2. 數據資料庫建置與維護。
+3. 報表排程建置與維護。
+4. 使用演算法進行數據異常偵測。
+5. 使用資料庫數據進行診斷和探索分析。
+
+【專業能力】
+1. 網頁開發技巧（PHP、jQuery）
+2.資料庫數據撈取(MySQL)
+
+【行為特質】
+1. 對網路遊戲事業、遊戲數據分析有高度興趣，有經驗或欲投入此領域者。
+2. 良好的團隊協作能力及自我管理能力，積極主動、有責任感。
+
+
+★想要更加了解慧邦科技嗎？歡迎到gamesofa careers看看！https://www.facebook.com/GamesofaCareers/"
+資料分析師/資料科學家,和泰聯網股份有限公司,"演算法開發工程師,系統分析師,其他資訊專業人員","工作內容：
+1.	彙整集團內可運用的數據，參與數據應用、顧客分析、顧客貼標等實際專案執行。
+2.	可自行依據產品特性規劃數據收集策略，運用分析工具進行數據挖掘，協助開發/維運BI Dashboard。
+3.	解讀數據後，將分析結果製成簡報，與客戶討論。
+ 
+本職務需具備以下技能：
+1.	熟悉線上數據收集工具(包含Google Tag Manager, Google Analytics, Firebase, Big Query)，具2-3年實作經驗。
+2.	具數據分析實務經驗者(資料撈取／清整／分析至建立洞察模型) 
+3.	熟悉數據程式語言 (如R、Python)
+4.	需具備Data Visualization（如：Data Studio, Power BI…等）
+5.	進階統計模型(Regression, Clustering, Segmentation...) 的應用經驗 
+6.	溝通能力佳
+7.	能快速學習與適應新技術，樂於接受改變與挑戰 
+ 
+
+ 
+"
+Scientist,"鑫明材料股份有限公司_ CMC Materials Taiwan Co., Ltd.","化工化學工程師,材料研發人員,特用化學工程師","Position Summary:
+The Scientist will play a role in developing high-performance CMP Polishing Slurries used in the production of advanced semiconductor devices in R&D at CMC Materials. This role is responsible for assisting in generating innovative CMP slurry formulation designs by identifying new, effective slurry components, establishing key product characteristics, discovering mechanisms of action, and delivering differentiated performance to our customers. The Scientist will own specific aspects of a development project and will be expected to design experiments and analyze generated data. The role must be able to communicate and discuss results directly with Global-R&D peers and cross-function partners. 
+
+Key Results/Responsibilities:
+1. Design analyses, and interpretation of experiments that advance slurry formulation performance and mechanistic understanding through robust property-activity relationships.
+2. Develops transfer functions at the slurry component level and optimize formulation to meet customer requirement.
+3. Generate innovative solutions to complex problems by using multiple disciplines and technical principles. Willing to explore more innovative methods and can use transfer function knowledge to solve some problems, thereby improving product performance.
+4. Clear communications and collaborate with across R&D and CMC functionals by sharing research outcomes, adopting best practices, and driving for continuous improvement to achieve research goals.
+5. Document and communicate research results effectively including presentations/publications to external stakeholders and filing for patents as needed to protect intellectual property.
+6. Utilizing knowledge and literature, identify new particles, molecules, polymers, surfactants or mixtures thereof that could meet the product requirements.
+7. Design and execute cleanroom experiments to verify slurry function.
+8. Analyze outcome of experiments utilizing advanced statistical tools.
+9. Create presentations to be shared with peers, customers or collaborators.
+
+"
+"Elite100儲備幹部(Data scientist及AI人才,  工作地點 : 內湖)",Advantech_研華股份有限公司,"MIS程式設計師,Internet程式設計師,軟體設計工程師","Data scientist :
+1.2 years+ of industry experience in Data Science with a focus on Statistical modeling, Machine learning, Forecasting and Optimization or Deep Learning or Simulation.
+2.Collect, extract, cleanse, aggregate internal and external data in order to feed to machine learning for training models.
+3.Good programming skills such as Python, R, C/C++
+4.Good interpersonal and presentation skill
+5.Passionate in AI
+<Preferred Qualifications>：
+SCM: Knowledge of the Time Series Analysis and Forecasting would be preferred.
+Sales & Marketing: Knowledge of the statistical algorithms/machine learning/deep learning algorithms typically used in Marketing Analytics and Sales Analytics.
+FA: Pattern Recognition, Time Series Analysis and Forecasting"
+AI 大數據科學家,昱峰智能大數據科技股份有限公司,"演算法開發工程師,軟體設計工程師,統計學研究員","1. 運用統計及機器學習等技術，針對客戶需求，研發與實作演算法程式碼。
+2. 演算法設計、開發與驗證。
+3. 協助專案研發與新技術的導入。
+4. 數據分析、建模等相關工作，並進行模型評估。
+5. 資料視覺化設計。
+
+"
+Deep Learning Research Scientist,英科智能有限公司,"其他研究人員,演算法開發工程師","Insilico Medicine Taiwan is seeking to hire a highly qualified Machine Learning/Deep Learning Scientist to join the research group, focused on developing innovative ML strategies to make significant progress in applying AI methods to drug discovery and biomarker development. To do the job successfully, the applicant will need exceptional skills in statistics, programming and have deep knowledge of data science and software engineering.
+
+Responsibilities:
+Lead research to advance the applications of machine learning to drug discovery and biomarker development
+Influence the progress of relevant research fields by producing publications
+Conduct research that can be applied to the company’s product development
+Work on deep learning research projects targeted at pharmaceutical (drug discovery and drug development) purposes and other medical (preventive medicine, longevity, etc.) purposes
+A successful candidate is expected to be comfortable with research-oriented activities and should be comfortable to work in a research environment alone and as a member of a group in Taipei"
+資料科學家,裕融企業股份有限公司,"市場調查／市場分析,統計精算人員","1. 與需求單位溝通確認分析需求，以建立分析議題 。
+2. 資料分析、文件報告撰寫製作及簡報。
+3. 整理數據包含數據清洗、特徵工程及探索。
+4. 進行統計分析與machine learning預測模型開發與調整參數。
+5. 利用Tableau BI軟體進行資料視覺化儀表板設計。
+6. 研究客戶樣貌並結合數據技術，發展金融商品科學應用模型與場景。"
+資料科學家,精藤股份有限公司,統計學研究員,"精藤公司為【全家便利商店股份有限公司】之子公司，精藤做為集團資訊整合的中心，不但承擔著集團「系統整合」及「Know-How彙整」的責任，同時也扮演了集團最堅強的技術發展領航者及實踐者。
+而支援這團隊成長的背後，除了穩定成長的零售通路資訊發展需求以外，亦包含了精藤20年來不斷精進的程式開發技術以及重視團隊合作的組織文化。
+在精藤，除了可以學習各項資訊系統規劃、開發、監控與維護（如：物流管理系統、帳務管理系統、商品管理系統，與情報分析系統......等數以百計的資訊系統，精藤皆自行開發與維護），更有完善的公司治理與開發標準，可做為所有資訊人員執行專案時的後盾。
+除此之外，精藤近年來亦不斷追求更多新領域的發展，例如：雲端科技應用、大數據資料分析以及行動裝置管理技術等等，誠摯的歡迎所有對於零售流通有興趣的伙伴一同加入精藤的大家庭。
+
+本公司資料科學家師之職務內容如下：
+1. 協助集團發展銷售預測分析模型
+2. 協助集團清理、整合資料進行建模
+3. 協助集團建置資料倉儲
+4. 開發預測模型視覺化報表"
+資料科學家,台灣資料科學股份有限公司,"資料庫管理人員,演算法開發工程師","期待有想法有衝勁的夥伴能夠加入我們。
+
+(1). 建構數據分析環境，並運用Python分析。
+(2). 以機器、深度學習與統計分析等最佳化研究與開發。
+(3). 規劃數據模型，進行統計與分析，開發資料視覺化圖表。
+(4). 數據研究報告撰寫。
+(5). 開發及設計BI分析報表。
+(6). 協助專案研發與新技術的導入。
+(7). 對學習新技術具有熱情，具備良好的溝通及團隊合作能力。
+(8). 其他主管交辦事項。
+
+"
+"Elite Champion - IoT高潛質菁英人才招募 - 10月場次(Data scientist及AI人才,  工作地點 : 內湖)",Advantech_研華股份有限公司,"MIS程式設計師,Internet程式設計師",我們將邀請5-10年工作經驗的高潛質菁英人才，投入IoT相關Data scientist 及 AI 相關領域。Elite Champion program將由高階主管親自面談，力邀追求卓越、熱情利他、主動積極並具有創新精神的A+人才一起迎接智慧城市及物聯網的時代。
+AI工程師/資料工程師/資料科學家/機器學習工程師,域動行銷股份有限公司,"演算法開發工程師,軟體設計工程師,其他資訊專業人員","【熱血團隊】
+域動Data Team是由一群對『數據分析』及『AI應用』具有研究及開發熱誠的成員所組成。在這裡你可以接觸到大量即時的使用者行為資料，並將資料科學模型應用於:
+『網路廣告投放優化』
+『網路用戶辨識』
+『消費者行為分析』
+我們更致力於尋找優化方案，改善產品體驗設計及為商業決策提供數據支持，提升效率和價值。我們鼓勵組員多方嘗試、思考、展現天馬行空的創意，且能清楚闡述想法，付諸實踐。 ٩(⚙ᴗ⚙)۶
+
+【環境氛圍】
+扁平化組織、歡樂上班氛圍，彼此隨時交流分享想法，不受任何侷限ㄟ(￣▽￣ㄟ)。
+
+總之，在Data Team不但可以接觸多元專案開發，藉此磨練專業知識的深度及廣度，幫助團隊的同時，也能突破自我，大幅成長。 ୧༼ ヘ ᗜ ヘ ༽୨
+
+歡迎您一起加入，成為未來數據應用趨勢的一份子！o(〃'▽'〃)o
+
+
+【Job Description】
+1. 使用資料科學技術剖析數據，協助產品成效優化及發展方向
+2. 負責資料收集、資料清理、模型建置等工作事項
+3. 協助處理網路使用者觀看的文本，進行關鍵字擷取、文本分類等NLP任務
+4. 廣告推薦系統建置及優化
+5. 數據視覺化報表產出
+
+
+【Qualifications】
+1. 熟悉 ML 相關知識
+2. 熟悉Python程式語言，包含Pandas, Numpy, Sklearn,Tensorflow, Pytorch等模組
+3. 熟悉Linux 系統操作
+4. 熟悉資料庫程式語言 SQL
+
+
+【Preferred Qualifications】
+1. 推薦系統處理專案經驗佳
+2. 自然語言處理專案經驗佳
+3. 曾參與ML相關研究、競賽或發表論文經驗佳
+4. 具有數位廣告相關經驗壓
+5. 統計學專長
+6. 具有分散式運算的相關知識，如 Spark、Hadoop、Hive
+7. 有使用過GCP, AWS 等雲端服務經驗佳
+"
+資深資料科學家,精藤股份有限公司,統計學研究員,"精藤公司為【全家便利商店股份有限公司】之子公司，精藤做為集團資訊整合的中心，不但承擔著集團「系統整合」及「Know-How彙整」的責任，同時也扮演了集團最堅強的技術發展領航者及實踐者。
+
+而支援這團隊成長的背後，除了穩定成長的零售通路資訊發展需求以外，亦包含了精藤20年來不斷精進的程式開發技術以及重視團隊合作的組織文化。
+
+在精藤，除了可以學習各項資訊系統規劃、開發、監控與維護（如：物流管理系統、帳務管理系統、商品管理系統，與情報分析系統......等數以百計的資訊系統，精藤皆自行開發與維護），更有完善的公司治理與開發標準，可做為所有資訊人員執行專案時的後盾。
+
+除此之外，精藤近年來亦不斷追求更多新領域的發展，例如：雲端科技應用、大數據資料分析以及行動裝置管理技術等等，誠摯的歡迎所有對於零售流通有興趣的伙伴一同加入精藤的大家庭。
+
+本公司【資深資料科學家】之職務內容如下：
+1. 了解客戶需求目的與問題，尋求最佳解決方案與商業價值。
+2. 依需求定義數據收集與處理，並運用演算法和分析工具進行數據挖掘。
+3. 針對問題提出數據產出、評估與應用，依實際狀況優化和修正模型與流程。
+4. 以資料科學角度提供專業服務與決策支援，驅動集團策略業務發展。 
+5. 與團隊成員共同執行數據專案，以及機器學習服務發展應用。
+
+本職務需要具有以下技能： 
+1. 需熟悉SQL、Python與R語言。 
+2. 需具備統計分析能力，包括熟悉SPSS、Multivariable calculus與Linear algebra。 
+3. 需熟悉Machine Learning，包括KNN、SVM、Clustering、Bayesian Natworks, Ensemble...。 
+4. 需具備Data Visualization & communication能力。 
+5. 須具備5年以上資料分析相關工作經驗。"
+資料科學家.,永慶房產集團_永慶房屋仲介股份有限公司,"市場調查／市場分析,系統分析師,演算法開發工程師","1.	資料多樣又豐富，成果都有機會被採納運用
+2.	團隊合作有人帶，遇問題可討論合作面對
+3.	周休二日，作息正常，極少加班
+4.	年輕團隊，工作氣氛佳"
+資料科學家,皓博科技股份有限公司,"演算法開發工程師,軟體設計工程師,韌體設計工程師","．負責有關演算法之研究、發展、設計、構建、操作、驗證等工作。
+．進行方案調研及數據建糢，並產出提案報告。
+．數據可視化方法設計。
+．協助理解說明統計公式並完成交辦的統計型計算任務。
+．建立開發計畫中需要的測試數據。
+ · 了解訊號處理技術。"
+數據科學家(台北/台中),鼎新電腦股份有限公司,"演算法開發工程師,其他資訊專業人員,系統分析師","1.負責數據清洗、加工、分類等開發工作，以響應數據應用端對數據提取的需求。
+2.熟悉數據建模，基於業務規律和數據探索構建數據模型，以解決企業工作上的問題，提升數據利用效率和價值。
+3.負責AI技術研究，以整合語音/視覺辨識、行銷科技等技術於專案或現有產品/服務中。
+
+#大數據#資料科學#數據科學
+
+**薪資會依學經歷評定(月薪含伙食津貼)
+**獎金、福利補助項目另計"
+【A】資料科學家,富智康國際股份有限公司(鴻海集團),"演算法開發工程師,軟體設計工程師,統計學研究員","Computer Vision and Machine Learning
+人工智慧技術需要大量的資料作為機器學習的基礎，本職務著重於可以配合深度學習模型進行大量資料收集、資料清理、資料標記以、資料增量以及資料合成，以應用於車用以及各種終端產品。
+
+1.大量資料搜集與清理，建立核心智能演算法所需數據集
+2.進行資料分析、數據可視化，與演算法初步概念驗證
+3.針對目標商用平台，進行演算法／機器學習模型調整與優化
+4.支持自駕、新能源車用產品開發
+"
+資料科學家_高雄_10735,緯創資通股份有限公司,"演算法開發工程師,軟體設計工程師,統計學研究員","1. 協助定義專案分析的範圍以及方法論，定義假說以及指標,調整設計數據模型
+2. 將商業問題轉化為可分析的條件以及狀態
+3. 帶領數據團隊挑戰實際商業活動的數據分析
+4. 定義解決方法步驟的優先度
+5. 使用統計，數學,機器學習等方法分析商業活動產生的資料
+6. 開發分析工具套件協助分析
+7. 設計建立預測工具
+8. 尋找分析資料產生的新洞見"
+Machine Learning Scientist,沛星互動科技股份有限公司,"演算法開發工程師,軟體設計工程師,數位IC設計工程師","1. Use machine learning and analytical techniques to build prediction model for advertising solutions. 
+2. Experience in analyzing and extracting valuable information from large amounts of business data
+3. Design, develop and test advanced models for predictive consumer behavior 
+4. Co-operate with software engineering teams to drive real-time model implementations and new feature creations
+5. Design efficient, scalable, automated processes for large scale data analyses, model development, model validation and model implementation
+6. Research and evaluate pioneering machine learning and statistical model "
+"【數據】資料科學工程師 (數數發中心,DDT)",國泰世華商業銀行股份有限公司_人力資源部,"軟體設計工程師,其他資訊專業人員,演算法開發工程師","【職務說明 What will you do】
+1.數據介接、清洗、處理與數據模型的程式開發
+2.網路爬蟲、數據工程 API 程式撰寫
+3.與數據分析師合作，進行機器學習、深度學習與統計分析模型的維運化程式開發
+4.ETL Pipline 的工具開發與維護
+5.協助新系統上線
+6.數據工程的自動化、監控、與維運模組開發"
